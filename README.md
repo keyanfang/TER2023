@@ -1,6 +1,4 @@
-# TER2023
-
-# PFE2023-028 
+# PFE2023-#028 (Recherche)
 ## Annotation de Textes Médicaux 
 
 Etudiant(s) : [ Keyan FANG ] (IA-ID), [ Chaeyeon SHIM ](IA-ID) 
