@@ -1,0 +1,780 @@
+
+
+File 2612 : 
+Patiente initialement admise à la clinique pour un épisode dépressif sévère. L'évolution s'est montrée peu favorable lors de cette hospitalisation.
+La patiente est donc transférée dans le service. La patiente s'est rapidement dégradée sur le plan somatique avec hyperthermie et signes neurologiques, notamment suite à un surdosage en lithium ayant entraîné une insuffisance rénale aigue sur son insuffisance rénale chronique.
+Dans ce contexte, la patiente est transférée en service 
+Hospitalisée du 10/06/2021 au 23/06/2021 pour prise en charge de troubles de la vigilance fébriles. L'hospitalisation est marquée par :
+-	Ponction lombaire normale, un scanner cérébral sans particularité, un dosage de lithémie plasmatique n'expliquant pas la symptomatologie à 1.58 mmol/L, ne concluant qu'à une pathologie psychiatrique avec détérioration cognitive associée, décompensée sur le mode dépressif
+-	Une PAVM à Pseudomonas aeruginosa
+-	Une hémorragie digestive haute d'évolution favorable sans récidive après la mise en place d'une SNG le 21/06
+-	Une polyurie sur tubulopathie au lithium, compensée par 3L de G2.5% par jour, puis par d'apport d'eau dans la sonde nasogastrique le 21/06
+-	Une polyurie sur tubulopathie au lithium compensée par 3L de G2.5% par jour puis par apport d'eau dans la sonde nasogastrique. Sonde à demeure en place
+-	Dénutrition avec nutrition entérale par sonde naso-gastrique
+
+Puis la patiente est transférée en psychiatrie le 23/06 :
+-	Aucun traitement psychiatrique n'est instauré
+-	Infection urinaire à E.Coli traitée par CLAFORAN
+
+Puis de nouveau transférée en réanimation le 01/07 pour rééquilibre hydrosodée :
+-	Diabète insipide néphrogénique avec défaut d'accès à l'eau dans le contexte psychiatrique, correction de la natrémie par apport hypotonique intraveineux et par la SNG puis compensation des pertes urinaires par apport hypotonique afin de maintenir la natrémie dans les cibles. Le test à la desmopressine s'avère négative et élimine un diabète insipide central.
+-	Hypercalcémie corrigée à 3.2 mmol/L sans signe ECG en dehors d'une tachycardie avec PTH anormalement normale faisait évoquer le diagnostic d'hyperparathyroïdie ou pseudoparathyroidie primaire secondaire au lithium, pouvant persister après l'arrêt de celui-ci. Amélioration avec hydratation seule sans administration de MIMPARA ou Biphosphorate
+-	IRA avec créatinine oscillant entre 80 et 110 µmol/L
+-	Pyélonéphrite à E.Coli traité par CLAFORAN à partir du 29/06 puis relayé par CIFLOX jusqu'au 09/07.
+File 2614 : 
+1)EVOLUTION DANS LE SERVICE
+- 16/05/2019 Lithémie dosée à 0.68 mmol.L
+Augmentation de la dose de TERALITHE LP à 4 comprimés par jour
+Lithémie de contrôle prescrite pour dans cinq jours
+- 16/05/2019 Contact altéré ce jour, légèrement sédaté
+Informé de la modification thérapeutique en cours
+Insiste sur son vécu difficile des énurésies nocturnes, dit ne pas accepter de continuer le NOZINAN si cela se reproduit cette nuit
+Subexaltation thymique, idées de grandeur toujours présentes mais mises à distance, ne surgissent qu'en fin d'entretien
+- 17/05/2019 Vu ce jour en entretien
+De bon contact, calme, moins instable sur le plan psycho moteur
+Episode d'énurésie cette nuit à nouveau, pas d'amélioration malgré diminution Nozinan
+Explications données sur la modification de traitement actuelle (arrêt Haldol progressif et augmentation Zyprexa) Demeure compliant aux traitements, moins adhésif avec les soignants
+Accessible au discours soignant et à la réassurance
+Thymie neutre, sans angoisses exprimées
+Réévaluation clinique lundi
+Bilan contrôle lithémie mercredi prochain
+
+2)Au total, patient admis pour rupture partielle de traitement et de suivi avec
+Recrudescence délirante. Au cours de l'hospitalisation, le traitement par Téralithe a été maintenu, en association avec du Zyprexa augmenté progressivement à 30mg et du Depakote à 1500 mg. La thymie a pu être stabilisée dans le temps, avec une régression totale des éléments productifs. L'alliance aux traitements était de qualité en fin d'hospitalisation, le patient reprenant donc son suivi
+
+3)Au total, patient admis pour décompensation psychotique dans un contexte de rupture thérapeutique et consommation de toxiques.
+Au début de l'hospitalisation le patient présentait un contact psychotique et hostile. Il existait des idées délirantes à thématique de persécution principalement, avec une forte adhésion. Il était alors persuadé que des voisins étaient entrés chez lui et avaient dégradé son appartement. Il n'avait aucune conscience des troubles du comportement qu'il a présenté à domicile, avec un rationalisme morbide. De ce fait il ne comprenait pas l'hospitalisation. Il avouait cependant la reprise de consommation de cannabis depuis le mois de septembre ainsi que de l'alcool, tout en les minimisant. La thymie était sub exaltée, sans idée noire ou suicidaire. Il n'a pas présenté de passage à l'acte auto ou hétéro agressif durant cette hospitalisation. Le discours présentait également une forte désorganisation du cours de la pensée.
+D'un point de vue thérapeutique, nous avons décidé devant l'importance des idées délirantes de switcher l'Olanzapine par de l'Haldol per os. Cela a permis une régression des délires et d'obtenir un discours beaucoup plus cohérent et ancré dans la réalité, bien que le patient pense toujours ne pas être l'auteur des dégradations matérielles. Les idées délirantes de filiation (pensait être le fils du roi du Bénin) ont disparu. L'Haldol est alors passé sous forme injectable avec une dose de 6 ampoules tous les 28 jours, ce que le patient tolère bien.
+Cependant il persistait une labilité de l'humeur malgré le lithium à dose efficace ainsi qu'une intolérance à la frustration et une certaine impulsivité. Il est alors décidé de faire une trithérapie en rajoutant du Depakote. Les bilans de contrôle ont montré une bonne tolérance hépatique.
+Depuis ces adaptations thérapeutiques, le patient a une présentation calme et adaptée, bien qu'étant parfois adhésif avec l'équipe. Le contact est bon mais de tonalité psychotique et déficitaire. Il a une tendance à la clinophilie. Il persiste des symptômes négatifs à type d'apragmatisme mais le patient reste autonome pour les actes de la vie quotidienne. Son discours est marqué par un ralentissement psychique mais qui reste cohérent, sans idée délirante ni hallucination. La thymie est stable, sans angoisse ni idée noire ou suicidaire.
+Au mois de janvier, le patient était stabilisé et réalisait de nombreuses permissions de journée qui se déroulaient bien.
+
+4)Début d'hospitalisation marqué par des troubles du comportement majeur à type d'hétéro
+agressivité et d'agitation sous-tendus par des processus délirants mégalomaniaques et une exaltation de l'humeur ayant nécessité une prise en charge en chambre d'isolement pour surveillance rapprochée.
+Réintroduction du traitement de fond par antipsychotiques et bithérapie d'anticonvulsivants associée à un traitement symptomatique à posologie élevée par Loxapac et Seresta permettant une nette amélioration comportementale.
+Transformation de la mesure de soins sous contrainte psychiatrique le 13/03/2021
+Par la suite, majoration du traitement de fond par Haldol Decanoas à 6 ampoules tous les 28 jours associé à du Teralithe LP 400mg 3.5cp/j et du Depakote 1250mg/j permettant un amendement de la symptomatologie psychotique avec mise à distance des idées délirantes et une stabilisation thymique.
+Bonne restructuration cognitive permettant l'élaboration psychique d'une critique adaptée des troubles psychiques et une bonne adhésion aux soins.
+Mise en place d'un programme de soins hospitalier intégrant des permissions de sortie à domicile seul avec passage IDE pour délivrance des traitements. Bon déroulement des sorties à domicile sans rechute des consommations de toxiques attestée par des dosages de toxiques urinaires itératives.
+Diminution des traitements symptomatiques jusqu'à arrêt définitif du Loxapac et du Seresta
+
+5)Patient âgé de 21ans hospitalisé pour décompensation psychotique d'une
+schizophrénie résistante dans un contexte de troubles du comportement avec crises clastiques au domicile
+
+Au cours du suivi le patient bénéficie de plusieurs modifications thérapeutiques pour stabiliser son état clinique. Le traitement par clozapine a été initié en 2017 permettant une amélioration clinique partielle, en association avec le Depakote qui a été poursuivie de juillet 2019 jusqu'en octobre et a été arrêté devant une l'absence d'amélioration significative des symptômes.
+Actuellement le patient reste peu ancré dans la réalité avec envahissement par sa symptomatologie hallucinatoire, sans que cela ne se traduise par des angoisses psychotiques. Il est coopérant et participe malgré tout aux activités du service. Le comportement est calme, sans agressivité auto ou hétéro agressive. Les sorties accompagnées par des membres de l'équipe se passent bien.
+La thymie est neutre, les fonctions instinctuelles sont préservées. Le patient adhère passivement aux soins. Il tolère bien son traitement par Clozapine 200mg/j qui nécessite un contrôle de NFS et de clozapinémie une fois par mois.
+Le dernier bilan date du 11/02/2020 : Clozapinémie 712microg/l , PNN 3G/L.
+Sur le plan somatique il existe une cholestase depuis 2018 avec une cytolyse fluctuante en cours d'exploration.
+
+6)Décompensation psychotique chez un patient souffrant de schizophrénie. Poursuite du 
+traitement par Ablify Maintena dans un premier temps mais résurgence de symptômes psychotiques à type de syndrome de désorganisation entravant le bon fonctionnement général.
+Switch par Risperdal majoré jusqu'à 8mg/j puis par Xeplion avec une efficacité clinique partielle.
+En effet, sur le plan clinique, on note des symptômes psychotiques positifs enkystés, un émoussement des affects, un apragmatisme et une aboulie ainsi que des difficultés d'élaboration psychique en lien avec un syndrome déficitaire marqué.
+Par ailleurs, le patient n'a pas présenté de troubles du comportement majeur en particulier pas d'agressivité ni d'agitation.
+Organisation de plusieurs permissions de sortie en juillet 2021 avec présentation lors de la quatrième sortie de troubles du comportement inappropriés (s'est caché dans un arbre après avoir faussé compagnie aux accompagnants).
+Switch par Haldol jusqu'à 15mg/j ayant permis une stabilité clinique malgré un syndrome de désorganisation cognitive et comportementale enkysté.
+
+7)Patiente de 72 ans hospitalisée en service de soins libres depuis le 17/12/21 devant troubles 
+du comportement et fléchissement thymique après avoir été hospitalisée pour un état de mal épileptique.
+A son arrivée dans le service, Mme était de contact psychotique, la présentation était correcte, on constatait un fléchissement thymique depuis quelques semaines, sans effondrement, avec dévalorisation de soi, des ruminations non envahissantes concernant son mari hospitalisé.
+Les idées suicidaires étaient apparues depuis 4 mois, non envahissantes, non quotidiennes, scénarisées par défenestration.
+Elle aurait fait une TS il y a 6 mois (mais aucun souvenir)
+Elle a présenté également des idées délirantes, pense qu'œil à côté d'elle qui l'espionne, pas d'hallucinations acoustico verbales à priori
+Fausses reconnaissances : a pris un des patients du service pour son mari, avec une adhésion totale
+Elle a également des idées de culpabilité et d'échec (n'a pas réussi à gérer ses factures chez elles, n'a pas pu changer le ballon d'eau à son domicile), pas d'idées de référence, pas d'attitude d'écoute
+Elle décrit des troubles de la concentration importants depuis plus de 3 mois (difficulté à lire).
+Aurait fait des dépenses considérables en septembre/octobre en cosmétique, mais ne s'en souvient plus (aurait retrouvé les tickets de caisse), serait endettée.
+Elle présente des vomissements post prandiaux provoqués, pas de dans le but de maigrir selon la patiente, mais "par réflexe", patiente habituée à se faire vomir par le passé, fréquence : 1 fois par jour
+Le bilan biologique réalisé à son arrivée ne retrouvait pas d'anomalie hormis une légère inflammation CRP 7.
+Vu dans dossier médical : Lamotrigine introduite le 25/06/21 pour bipolarité ?
+a priori pas dans le cadre de ses EME
+La lamotriginémie réalisée le 20/12 est toujours en cours
+Mme aurait de l'ostéoporose traitée par OPTRUMA (qu'elle ne prenait plus en maison de retraite), aurait également une dyslipidémie.
+Le MMSE réalisé le 21/12/21 était 27/30.
+Pas de troubles cognitifs chez une patiente ayant un bac +5 mais fausses reconnaissances et notion d'alcoolisme chronique (1/2 bouteille de whisky quotidiennement), serait sevrée depuis 10 ans.
+Historique des traitements déjà reçus :
+SOLIAN
+PROZAC
+Sur le plan thérapeutique dans le service, devant la diminution de la thymie et les idées suicidaires envahissantes, le 22/12, du seroplex 10 mg a été introduit, le temesta a été majoré à 3mg par jour, le LOXAPAC a été majoré à 150 mg par jour
+Le 21/12/21, elle verbalise IDS "je sauterais par la fenêtre s'il n'y avait pas de barreaux", et a tenté depuis 2 jours de mettre en acte ses idées suicidaires (a essayé d'enjamber une rambarde, fugue du service le 22/12/21).
+La patiente a été placée en chambre d'apaisement, la famille a été prévenue
+Son état psychique n'étant plus compatible avec la poursuite des soins dans un service de soins libres, transfert ce jour pour hospitalisation sous contrainte
+Au total :
+Hospitalisation sous contrainte devant tentative de suicide
+
+8)Au début de l'hospitalisation, le patient était hostile et méfiant envers l'équipe médicale avec 
+Une importante tension intrapsychique et une alliance thérapeutique nulle, ce qui a conduit à une mise en isolement pendant 48h. Le discours présentait des éléments délirants à thématique sexuelle à mécanisme hallucinatoire et interprétatif, sans HAV verbalisées.
+Progressivement, le contact s'est amélioré avec une réorganisation des idées et de la pensée sous DEPAKOTE 500mg 2x/j. Le patient s'est montré de plus en plus coopérant avec une amélioration de l'alliance thérapeutique.
+Régression des troubles du comportement. La conscience et la critique des éléments de son hospitalisation reste actuellement toujours fragile.
+Suite de la prise en charge pendant une semaine du 16/01/2020 au 23/01/2020.
+AU TOTAL : l'évolution a été favorable et le patient est adressé en étant cohérent, organisé, euthymique avec cependant une faible critique des actes ayant mené à l'hospitalisation.
+
+9)Décompensation psychotique dans un contexte d'échappement thérapeutique chez un 
+patient souffrant de schizophrénie résistante. Devant la symptomatologie psychotique, le traitement par Xeplion a dans un premier temps était majoré à 150mg et associé à une prise en charge symptomatique sédative et anxiolytique.
+Aggravation de l'état clinique psychiatrique avec syndrome négatif au premier plan (clinophilie, aboulie, apragmatisme) associé à une désorganisation cognitive et une irritabilité importante.
+Ajout d'un traitement thymorégulateur à visée anti-impulsive et potentialisatrice par Depakote mais mauvaise observance thérapeutique constatée après inefficacité clinique et dosage plasmatique de l'acide valproique indétectable.
+Prescription d'une mesure de soins intensifs en chambre d'isolement devant menace de passage à l'acte auto et hétéro-agressif.
+Mise en évidence d'une symptomatologie obsessionnelle-compulsive à type de rituels de vérification et de comptage (poignées de porte, chasse d'eau, piétinement).
+Décision de changement de traitement antipsychotique par Abilify per os majoré à 30mg/j. Amélioration comportementale par la suite avec amendement de la symptomatologie déficitaire, un meilleur contact et une réorganisation du cours de la pensée. Ainsi, un relais par injection retard par Abilify Maintena a été fait.
+La suite de l'hospitalisation est marquée par une tentative de fugue au cours de laquelle le patient a essayé d'escalader une barrière en métal et s'est coupé la main. Une prise en charge au bloc opératoire pour exploration de la plaie a été effectuée et s'est révélée sans particularités.
+La conscience des troubles et l'adhésion aux soins s'est ensuite améliorée et a permis l'organisation de permissions de sortie accompagnées par des soignants puis par sa mère.
+
+10)A son arrivée dans le service : la patiente présente une accélération psychomotrice sans 
+agitation ni agressivité avec une hypersyntonie marquée. Elle est accessible à l'échange. Le discours diffluent avec des coq à l'âne et une désorganisation psychocomportementale. Il existe une production d'éléments délirants mal systématisés à thème de persécution de mécanisme interprétatifs portés sur l'équipe et sur les membres de sa famille. Elle tient des propos très ambivalents et présente un rationalisme morbide. Elle explique être en phase "excitée" depuis 1 mois avec diminution du temps de sommeil. Note de mégalomanie, dit faire plusieurs métiers : pédopsychiatre, peintre et professeur au chômage. La tension interne est palpable, mais ne se dit pas angoissée et rassurée d'être à l'hôpital.
+Elle accepte les soins et la prise des médicaments.
+Les premiers jours dans le service ont été marqués par une désorganisation psycho-comportementale massive et des troubles du comportement à type d'auto et hétéro-agressivité. Nous avons dû transférer la patiente en chambre d'apaisement afin de diminuer les stimulations externes et nous avons poursuivi le traitement par RISPERDAL, SERESTA et LOXAPAC précédemment prescrit. Nous avons progressivement augmenté le traitement par RISPERDAL jusqu'à 8 mg par jour. Nous avons constaté une amélioration très nette sur le plan des symptômes comportementaux mais il persistait une accélération psychomotrice et exaltation de l'humeur. Nous avons introduit un traitement par DEPAKOTE à visée thymorégulatrice jusqu'à 1000 mg par jour (dernier dosage le 3/03: 68,2 mg/L).
+Après amélioration et retour à un état d'euthymie nous avons pu voir apparaître un apragmatisme, un repli sur soi et un sentiment de persécution persistant en bas fond. Nous avons décidé d'un switch de traitement neuroleptique par XEROQUEL jusqu'à 800 mg.
+Le tableau clinique s'est amélioré progressivement et Mme a pu se montrer participative dans le service notamment pour les activités manuelles et de danse. Malgré cette amélioration, le déni des troubles est complet et aucune critique des symptômes n'a pu être possible durant son hospitalisation.
+
+11)Au total, patiente bien connue du service réhospitalisée pour décompensation de sa 
+schizophrénie sur rupture de traitements. La mise en place d'une bithérapie par Teralithe et Abilify a permis une régression de la symptomatologie productive et une stabilisation thymique avec régression de la désorganisation psycho comportementale. L'insight a été travaillé et la patiente comprend la nécessité d'observer son traitement.
+
+12)Décompensation d'une schizophrénie paranoïde en rupture de soins.
+EVOLUTION DANS LE SERVICE
+- 20/05/2019 Visite en chambre
+Présentation correcte, mais incurie. Bon contact
+Dysarthrie, ralentissement psychomoteur
+Dit que le week-end "c'était long"
+Nous évoquons le fait qu'il a fumé dans la chambre, il nie et rigole
+Recadrage par rapport aux normes du service.
+Faible insight
+Dit ne pas savoir pourquoi il a été hospitalisé
+Absence de conscience des troubles
+Relâchement des associations : "j'ai vu un Toyota".
+Explications concernant son motif d'hospitalisation
+Il dit qu'il prend son traitement parce que "je suis bipolaire". Nous expliquons qu'il n'a pas un trouble bipolaire mais une schizophrénie.
+CAT: diminution dose d'HALDOL car effets secondaires (gynécomastie, tremblements des extrémités supérieures, ralentissement psychique). Recontrôle de la prolactine la semaine prochaine
+Avis endocrinologue par rapport à son hypercholestérolémie.
+- 21/05/2019 Repris sur les transgressions régulières du règlement concernant la cigarette, tendance à fumer dans la chambre avec son voisin de chambre.
+Par ailleurs, persistance d'un RPM, de signes négatifs, déficitaires, d'une tendance à l'apragmatisme, à la clinophilie, à l'incurie.
+Diminution du loxapac.
+- 27/05/2019 Mieux, de meilleur contact, pas de désorganisation, pas d'idée délirante. Syndrome déficitaire majeur.
+Diminution posologique des traitements. Mauvaise tolérance neurologique avec syndrome extra pyramidal.
+Organiser nouvelle sortie de - de 12h avant programme de soins.
+- 28/05/2019 Entretien à sa demande : état clinique stable avec évolution déficitaire de sa pathologie. S'inquiète pour sa mère, la dit malade, veut sortir s'occuper d'elle, s'occuper de papiers ?
+Prévoir - de 12h avec équipe puis demande de programme de soins.
+Diminution progressive des traitements à visée sédative.
+
+13)Stabilisation clinique en service fermé avec réinstauration d'un traitement antipsychotique par 
+Haldol Decanoas.
+Monsieur a bénéficié de plusieurs sorties au domicile (accompagné par l'équipe et seul dès la mise en place de son programme de soins) qui se sont bien déroulées.
+Transfert en hospitalisation de semaine le 08/07/2019 pour suite des soins.
+Persistance d'une symptomatologie psychotique à type de désorganisation de la pensée sans trouble du comportement majeur dans le service.
+Le syndrome déficitaire est au premier plan avec une apathie cognitive, émotionnelle et comportementale. Le patient a refusé de participer aux activités du service au cours du séjour arguant qu'il n'était pas intéressé. La conscience de la maladie reste précaire mais l'adhésion au traitement est correcte.
+
+14)Patiente âgée de 64 ans hospitalisée depuis plusieurs années suite à une décompensation 
+psychotique avec troubles du comportement dans un contexte de trouble schizo-affectif résistant.
+Instauration d'un bithérapie d'antipsychotique par Clozapine et Abilify ayant permis une stabilisation de la symptomatologie psychotique avec une mise à distance des idées délirantes et des phénomènes hallucinatoires.
+Sur le plan thymique, amélioration clinique significative après mise en place d'un traitement antidépresseur par Venlafaxine.
+Sur le plan comportementale, la patiente se montre compliante aux soins. Elle ne présente pas de troubles du comportement notamment pas d'agressivité ou d'agitation.
+Au niveau social, elle rend visite plusieurs fois par mois à son compagnon accompagné par un membre de l'équipe soignante. Elle a également pu bénéficier de nombreuses permissions de sortie accompagnées qui se sont bien déroulées. Les relations interpersonnelles sont satisfaisantes avec notamment une alliance thérapeutique de qualité avec l'équipe médicale et paramédicale.
+A noter que l'état clinique de Mme reste marqué par des fluctuations affectives ou comportementales généralement de courte durée, réactionnelles et spontanément résolutives à type de thymie basse, opposition passive et retrait social. Des symptômes confusionnels et/ou anxio-délirants sont également fréquents suite à des affections somatiques (troubles du transit à surveiller +++, appareil dentaire)
+
+15)Patiente de 49ans admise en soins libres pour décompensation psychotique dans le cadre 
+d'une schizophrénie, sans notion de rupture thérapeutique.
+Poursuite du traitement de fond par Risperdal 8mg par jour, associé à une majoration de la sédation par Loxapac et de l'anxiolyse par Seresta.
+Amélioration significative de l'état clinique, avec abrasion de la symptomatologie psychotique et diminution de la symptomatologie anxieuse.
+Persistance d'élément de mécanismes interprétatifs et intuitifs qui n'altère cependant pas le bon fonctionnement général de la patiente.
+La patiente est de bon contact, avec bon investissement dans la prise en charge et une alliance thérapeutique appropriée.
+La patiente a pu bénéficier de plusieurs permissions à domicile accompagnée.
+Ces dernières s'étant déroulées sans difficultés, il en ressort que l'état clinique de la patiente est compatible avec une sortie d'hospitalisation.
+Passage infirmier à domicile quotidien deux fois par jour.
+Mise en place d'auxiliaire de vie à domicile
+
+File 2616 :
+
+1)EVOLUTION DANS LE SERVICE
+Liste des évolutions
+- 04/06/2019 Contact et présentation habituelle
+Discours désorganisé
+Comportement calme
+Thymie neutre
+Pas de signe d'angoisse
+Pas de plaintes particulières
+SYNTHESE MEDICALE DU SEJOUR
+Patient cliniquement stable au niveau de sa pathologie.
+Il persiste un syndrome délirant enkysté sans majoration des troubles ni nouvelle symptomatologie productive pas d'angoisse verbalisée, ni trouble des fonctions instinctuelles euthymique
+Pas d'idée noire, ni suicidaires verbalisés
+Etat clinique stable
+
+2)EVOLUTION DANS LE SERVICE
+06/08/2019 Contact et présentation habituels
+Comportement désorganisé
+Discours désorganisé, coq à l’âne, idées délirantes sous-jacentes, rationalisme morbide
+Pas de critique de son comportement
+Aucune conscience des troubles
+Euthymique
+Pas de signe d'angoisse
+Fonctions instinctuelles préservées
+- 08/08/2019 Contact psychotique
+Présentation négligée, incurique
+Comportement désorganisé, instabilité psychomotrice
+Discours désorganisé, coq à l'âne
+Euthymique
+Pas de signe d'angoisse
+Idées délirantes enkystées
+Derniers paramètres biométriques
+SYNTHESE MEDICALE DU SEJOUR
+Evolution clinique favorable dans le service.
+Pas de trouble du comportement majeur. Tendance à être dans l'immédiateté mais facilement recadrable.
+Stabilité de la symptomatologie psychotique positive et de désorganisation.
+Peu de critique des troubles du comportement, insight faible.
+Pas de modification thérapeutique lors de l'hospitalisation.
+Retour au domicile avec reprise du suivi bihebdomadaire.
+
+3)EVOLUTION DANS LE SERVICE
+- 01/01/2020 Appel car patient agité, tendu, agressive verbalement
+Discours désorganisé, délire de persécution (aurait vu au télé un documentaire sur Ceausescu (ancien dictateur roumain) se retourne envers l'équipe de lui avoir caché les horreurs fait par le dictateur... assez incohérent par moment). Commence à insulter tout le monde, parfois dit d'adresser les insultes envers Ceausescu et pas l'équipe...
+Appel du renfort des soignants du 2ème étage.
+Impossible à recadrer, sort du service, ne reste pas en entretien.
+Accepte finalement après négociation++ de prendre son trt en décalé avec 100mg de Loxapac en SB après négociation+++
+Réagit en miroir++
+On le laisse tranquille pour diminuer les stimulations pour donner la chance au trt.
+Réévaluation après 30min patient plus calme, reste tjrs assez persécuté et désorganisé plus accessible au recadrage s'excuse à l'équipe. Rappel que son comportement est inacceptable dans un service ouvert et que s'il y a une récidive il va être transféré en service fermé
+> si récidive appel idg et renfort des étages pour faire recadrage. Si échec transfert en service fermé
+- 02/01/2020 Se plaint de symptômes physiques : constipation et raideur des membres inférieurs.
+Thymie basse
+Discours désorganisé, relâchement des associations, rationalisme morbide
+Idées délirantes non systématisées de mécanisme intuitif et interprétatif à thème de persécution avec adhésion totale et retentissement émotionnel assez faible
+Hallucination intrapsychique avec idées de référence : la télévision lui parlerait
+Clozapine : 493 microg/L
+- 02/01/2020 Le patient veut avoir un entretient cet après-midi :
+Patient non hostile, souriant, dans l'alliance
+Discours désorganisé, rationalisme morbide
+Hallucinations intrapsychiques, idées de référence à la télévision, à la messe.
+Idées délirantes de persécution, retentissement émotionnel faible
+Sentiment de culpabilité, de honte
+Le patient présente un bien meilleur état clinique par rapport à hier, plus dans l'opposition
+
+4)SYNTHESE MEDICALE DU SEJOUR
+Hospitalisation séquentielle : patient présentant toujours des idées délirantes de mécanisme intuitif et interprétatif sur des thématiques de persécution. Il y a eu un épisode d'hostilité du patient suite à une émission à la télévision, le patient était très projectif et agressif envers l'équipe mais sans nécessité de contention. Après cet épisode, le patient s'est amélioré cliniquement, contact meilleur, répercussion émotionnelle des idées délirantes beaucoup plus faible.
+A la sortie le patient retrouve son état clinique habituel : pas de nécessité d'adaptation thérapeutique
+
+5)DIAGNOSTIC OU HYPOTHESE DIAGNOSTIC A L'ENTREE
+Patient de 56 ans admis pour prise en charge et surveillance séquentielle d'un trouble schizophrénique résistant d'évolution déficitaire
+Examens biologiques à l’entrée
+Examen biologique le 29/01/2020 :
+HB : 13,5g/dL
+Leucocytes : 6,3x10^9/L
+Plaquettes : 262x10^9/L
+Pas de trouble ionique
+Urée : 7,8 mmol/L
+Créatinine : 79 micromol/L
+Clozapine : 562 microg/L
+Examens paracliniques à l’entrée : Non renseigné
+EVOLUTION DANS LE SERVICE
+- 28/01/2020 Pas d'infléchissement thymique, comportement désinhibé
+Pas d'angoisse franche à l'entretien
+Présente des troubles du sommeil mais difficilement évaluable
+Présente des hallucinations intrapsychiques avec des vols de pensées de la part d'un autre patient
+Présente toujours des idées délirantes de persécution et de référence
+Pas de modification clinique
+- 29/01/2020 Bilan biologique réalisé ce jour sans anomalie
+Plainte de constipation, mise de Movicol, Lansoyl et Xprep en début de semaine, a été à la selle ce jour
+Examen abdominal : abdomen souple, dépressible et indolore, tympanique à la percussion, pas de signe d'irritation péritonéale, pas d'organomégalie, bruits hydroaériques présents, présence de gaz.
+Derniers paramètres biométriques
+SYNTHESE MEDICALE DU SEJOUR
+Bonne évolution dans le service. Le patient présente dans le service des troubles du transit à type de constipation.
+Après mise de Lansoyl, de movicol et d'Xprep le patient a des selles.
+Pas d'évolution clinique d'un point de vue psychiatrique, pas de délire surajouté, pas d'hallucination surajoutée.
+
+6)Patient de 58 ans hospitalisé pour psychose déficitaire évoluant depuis plusieurs années.
+Au cours de son hospitalisation, il présente un contact psychotique, une présentation négligée, un discours confus avec plaintes mnésiques et des propos délirants à propos de la foi et de la religion. Par ailleurs, multiples plaintes sur le plan urinaire, "urine de travers".
+On note une certaine tension intra psychique et des idées délirantes à thématique somatique, "j'ai fait un AVC", "j'ai du mal à faire pipi", mystique "la vierge Marie je l'offense" et sexuelle "c'est les fesses d'une femme"
+Idées de référence de mécanisme intuitif et interprétatif "les feux arrière des voitures qui clignotent c'est le diable"
+Notion d’hétéro-agressivité envers une patiente (il l’aurait donné une gifle)
+Présence de TOCs "quand j'ai une mauvaise pensée, je dois prier 2 fois pour effacer".
+Echo prostatique du 08/09/21 pour suivi d'HBP :
+Retrouvent des reins de taille et d'échostructure normales.
+Pas de dilatation des cavités excrétrices ni de lésion focale.
+Prostate évaluée à 30 g.
+Vessie de lutte.
+Échec de miction.
+Absence de dilatation pyélocalicielle
+Sortie contre avis médical par fugue le 16/06/21
+
+7)TTT à l'entrée
+ABILIFY 30
+CLOZAPINE 400
+Patient de 58 ans hospitalisé pour psychose déficitaire évoluant depuis plusieurs années.
+Au cours de son hospitalisation, il présente un contact psychotique, une présentation négligée, un discours confus avec plaintes mnésiques et des propos délirants à propos de la foi et de la religion. Par ailleurs, multiples plaintes sur le plan urinaire, "urine de travers".
+On note une certaine tension intra psychique et des idées délirantes à thématique somatique, "j'ai fait un AVC", "j'ai du mal à faire pipi", mystique "la vierge Marie je l'offense" et sexuelle "c'est les fesses d'une femme"
+Idées de référence de mécanisme intuitif et interprétatif "les feux arrière des voitures qui clignotent c'est le diable"
+Notion d’hétéro-agressivité envers une patiente (il l’aurait donné une gifle)
+Présence de TOCs "quand j'ai une mauvaise pensée, je dois prier 2 fois pour effacer".
+Echo prostatique du 08/09/21 :
+Retrouvent des reins de taille et d'échostructure normales.
+Pas de dilatation des cavités excrétrices ni de lésion focale.
+Prostate évaluée à 30 g.
+Vessie de lutte.
+Échec de miction.
+Absence de dilatation pyélocalicielle
+
+8)Diagnostic de schizophrénie déficitaire posé. Patiente traitée par Haldol Decanoas.
+Le 27/05/2019, le tuteur est alarmé devant l'état de dégradation incurique de la patiente.
+L'état de la patiente est incurique avec une parasitose généralisée liée à l'état insalubre du domicile. Vit avec son compagnon (avec lequel elle a eu un fils qui a maintenant 14 ans et qui est placé en FA et l'ambiance serait conflictuelle d'après la patiente. Selon Madame G son compagnon s'alcooliserait régulièrement et pourrait être violent verbalement et physiquement. Madame décrit que l'état de son appartement est lamentable et qu'elle n'arrive plus à gérer sa vie là-bas.
+EVOLUTION DANS LE SERVICE
+- 29/05/2019
+Examen clinique en chambre :
+Cardio/pneumo : bruits du cœur réguliers, absence de souffle à l'auscultation. Murmures vésiculaires bilatéraux et symétriques, pas de bruits surajoutés. Pas d'OMI, ni pli cutané. Patiente eupnéique. FR 16/min.
+Abdo : abdomen souple, dépressible et douloureux 3/10 en FIG et FID, bruits hydro aériques perçus. Constipation, soulagée par Movicol. Pas de dysurie par ailleurs. Episodes de brulures pelviennes (gel douche non adapté) sans écoulement malodorant ni de pertes sanguines.
+Neuro : paires crâniennes intègres, pas de désorientation temporo spatiale. Nystagmus horizonto rotatoire connu(?), pas de troubles de l'équilibre ni de la marche. Palm test négatif. Romberg négatif. Signe de barré négatif.
+Etat cutané : traces de piqures de punaises de lit prurigineuses au niveau des poignets et des épaules. Ongles des pieds à entretenir. Baisse de la température cutanée au niveau des extrémités sans signe d'hypoxie. Signes d'hyperandrogénie (léger hirsutisme au niveau du visage et des jambes).
+
+9)SYNTHESE MEDICALE DU SEJOUR
+Patiente de 45 ans hospitalisée pour troubles du comportement avec mises en danger répétées dans un contexte de schizophrénie déficitaire. La patiente n'a pas présenté de trouble grave du comportement dans le service
+Aucune consommation de toxiques n'a été détectée
+Sur le plan somatique la patiente a présenté des signes d'infection urinaire. Celle-ci a été traité par MONURIL prise unique.
+Aucune modification thérapeutique n'a été entreprise dans le service. La prochaine injection D'HALDOL decanoas aura lieu le 02/11/2020.
+Sur le plan psychiatrique, le contact demeure déficitaire. Les capacités d'élaboration semblent limitées
+On relève des troubles de la compréhension majeurs.
+La présentation est empreinte d'attitudes enfantines. Immaturité affective patente.
+Le discours est extrêmement pauvre et persévérant
+Il existe un déficit attentionnel.
+L'autonomie est altérée de manière durable.
+Sur le plan social, la patiente maintient sa volonté de vivre en foyer. 
+Il est à noter que la patiente est placée sous identité protégée. En effet il s'agit d'une personne vulnérable, ayant souffert lors de son hospitalisation d'ingérences extérieures
+Le 22/10/2020, la patiente est transférée dans le cadre d'un échange de patients.
+
+10)SYNTHESE MEDICALE DU SEJOUR
+Patient de 61 ans adressé ce jour en consultation de neurologie pour réévaluation de sa maladie de Huntington d'évolution rapide.
+Actuellement il prédomine une thymie basse, sans idéation suicidaire. Apathie au premier plan. Grandes difficultés à la marche, et à l'alimentation : stase, troubles de la déglutition avec risque de fausse route.
+Troubles de la marche majeurs avec rétropulsion importante. Pas de syndrome extra pyramidal retrouvé à l'examen clinique.
+Questionnement sur l'intérêt de laisser en place l'haldol ou de diminuer les posologies.
+Introduction récente de Brentellix devant la thymie basse.
+
+11)HISTOIRE DE LA MALADIE
+Patiente de 82 ans hospitalisée suite à une TS par IMV.
+N'aurait pas de suivi psychiatrique. Est déjà passée au CAP il y a 3 jours pour palpitations, verbalisait que le gardien de l'immeuble l'avait empoisonnée. En entretien il y a 3 jours, anxiété, idées de spoliation et de préjudice, dirigées contre l'environnement de son immeuble, compatible avec des troubles du jugement et un début de perte d'autonomie probablement en lien avec une dégénérescence vasculaire. Aurait arrêté ses traitements somatiques et se nourrirait difficilement. 
+Hier aurait pris 14g de Doliprane et un demi tube de Lexomil. Met en lien ce geste auto agressif avec les douleurs neuropathiques qu'elle présente aux MI non soulagées par les médicaments, les difficultés à s'alimenter depuis quelques mois à cause de "blocage"/douleurs au niveau œsophagien qui a été exploré par fibroscopie il y a quelques mois et qui n'aurait rien retrouvé.
+En entretien, contact correct. Orientée dans le temps et dans l'espace. Calme sur le plan psychomoteur. Pas de signes d'angoisse francs. Thymie basse avec effondrement, regrette que son geste ne soit pas abouti. "je savais qu'il n'y avait pas assez de médicaments mais je n'avais que ça". Dit ne pas vouloir être un boulet pour ses enfants. Pas de velléité suicidaire ce jour. Pas d'éléments délirants au premier plan. Refuse toute prise en charge que ce soit hospitalisation, passage d'IDE au domicile, verbalise ne pas souhaiter que l'on prévienne ses enfants.
+Allègue avoir arrêter ses traitements pour le cœur il y a quelques semaines dans l'espoir que son cœur s'arrête mais "j'allais mieux je ne comprends pas". "On ne devrait plus vivre à mon âge".
+Lien fait avec une de ses filles dans la journée : évoque des relations conflictuelles avec sa mère, ont repris "un peu contact" il y a 4 ans.
+CAT : Reconduction des traitements habituels/faire le lien avec son MG pour traitements somatiques
+
+12)EVOLUTION DANS LE SERVICE
+- 11/07/2020 Patiente vue ce jour :
+-Agitation dans la soirée avec passage à l'acte auto-agressif : a entaillé ses bras, son cou et sa cuisse dans une volonté suicidaire, à l'aide de bris de verre provenant d'un flacon de verni à ongle
+-Aucune critique
+-Propos incohérents attribuables au trouble cognitif de la patiente
+=> SERESTA 10
+=> Passage au SAU pour bilan des plaies
+- 12/07/2020 Réévaluation psychiatrique
+Passage à l'acte auto-agressif hier soir avec scarifications et phlébotomie avec du verre
+Transfert aux urgences pour points de suture
+Contact et présentation corrects
+Comportement globalement calme et compliant
+Discours organisé mais présence d'idées délirantes de persécution. Evoque la "mafia " qui voudrait la tuer. Délire d'empoisonnement sur l'eau donnée par les soignants et refus de prise de traitement depuis le début du weekend.
+La veille, explique avoir entendu la voix de quelqu'un qui aurait dit "elle ne sait pas ce qui l'attend". Affirme avoir fait un passage à l'acte sur un sentiment d'impasse situationnel "on va me tuer de toute façon" Thymie plutôt neutre. Anxiété sous-jacente Troubles du sommeil
+Se plaint de ne pas être à la selle depuis 2 jours
+Cliniquement, abdomen souple et dépressible, douloureux à la palpation, pas de masse abdominale, pas de contracture
+Refus de prise des traitements psychotropes dans les services notamment Seresta et Mirtazapine
+Doute sur hydratation adéquate
+CAT Movicol à donner ce midi à la patiente +++
+Prescription de Tiapridal 100mg 3 fois/j en si besoin en gouttes
+ECG pour QTc
+Bilan biologique pour éliminer cause organique et déshydratation
+- 13/07/2020
+Exprime idées suicidaires
+Accumulations de difficultés selon patiente
+Vécu douloureux de ses problèmes somatiques : thyroïde, neuropathie et HTA
+- 13/07/2020 vers 14h, patiente persiste à refuser le traitement puis quitte le service ; retrouvée près de la passerelle, refuse de regagner le service, met en avant sa liberté et "le droit de mourir" ramenée dans le service ; LOXAPAC 50 mg, isolement et contentions 4 membres prescrits, surveillance horaire du risque suicidaire ;
+- 13/07/2020 patiente revue en isolement/contention : toujours sthénique, agressive verbalement
+- 13/07/2020 revue à 18h20 ; NB : a reçu 10 mg de tranxène car toujours agitée malgré loxapac plus aisée mais se tend facilement, discours volontiers outrancier voire injurieux ; poursuite iso contention ; anticoagulation prescrite
+- 14/07/2020 revue à 9h30 : plus apaisée mais le discours reste opposant et outrancier ; baisse loxapac 25-25-50 ; maintien iso et contentions, repas sans contention en présence d'un soignant si état clinique le permet
+- 14/07/2020 revue en isolement à 15h ; somnolente, facilement réveillable ; toujours très opposante ; poursuite isolement et contentions
+Derniers paramètres biométriques
+SYNTHESE MEDICALE DU SEJOUR
+Crise suicidaire dans un contexte de dépression avec éléments psychotiques et d'altération cognitive
+
+13)HISTOIRE DE LA MALADIE
+Patiente en crise suicidaire adressée aux urgences le 6/7 pour IMV ; où elle récidive par phlébotomie le 12/7 ; Le 13/7 refus des ttt, revendication de son intention suicidaire et conduites inquiétantes ; refus des soins hospitaliers ; Isolée et contenue le 13/7
+le 15/7 Ce jour malaise avec hypotension 70 mmHg sans signe de gravité, transférée aux urgences où la tension remonte après remplissage par 1L de NaCl + supplémentation KCl sur hypoK
+Conclusion : hypotension sur déshydratation + effet hypotenseur du loxapac + ttt anti-hypertenseur à réévaluer
+CAT :
+- Poursuite isolement et contentions 2 membres, surveillance PA et FC 4/j, surveillance horaire du risque suicidaire
+- Hydratation 500 mL sous-cutanée ; iono de contrôle demain matin
+- Suspension ttt anti-hypertenseur et loxapac pendant 24h
+
+14)HISTOIRE DE LA MALADIE
+Patiente souffrant d'un trouble psychotique chronique.
+Hospitalisation de juillet à septembre 2020 pour motif similaire avec passage à l'acte auto-agressif par intoxication médicamenteuse volontaire avec prise en charge initiale pour décompensation thymique avec idées suicidaires. Passage à l'acte auto-agressif dans le service par TS par phlébotomie dès son arrivée dans le service avec transfert en service fermé. Sortie du service avec traitement par Olanzapine et Prozac. La patiente avait refusé la mise en place d'aides à domicile et de passage
+IDE. Recrudescence des idées suicidaires dans un contexte de fléchissement thymique et insomnie en lien avec une rupture thérapeutique. Indication à une prise en charge hospitalière suite à la visite à domicile d'infirmiers.
+SYNTHESE MEDICALE DU SEJOUR
+Patiente âgée de 83ans, hospitalisée pour décompensation thymique et délirante suite à une rupture de traitement et de suivi.
+Lors du séjour, réintroduction du traitement de fond par OLANZAPINE et FLUOXETINE. Evolution clinique favorable avec stabilisation thymique et amendement partiel des Symptômes psychotiques n'entrainant plus de comportement perturbateur et permettant ainsi un fonctionnement général correct. 
+
+15)HISTOIRE DE LA MALADIE
+Première hospitalisation en 2018 à Paris pour première décompensation psychotique suite à un retour d'étude au Pays de Galles.
+Recrudescence anxieuse et phénomène hallucinatoire depuis 15j qui a conduit à une augmentation du RISPERDAL de 4 mg à 6mg.
+ATCD psychiatrie :
+1 hospitalisation psychiatrique pendant 4 mois 2018, fin 2018 (hospitalisée après son retour d'étude au pays de Galles). Début traitement par RISPERDAL.
+Historique des traitements :
+ABILIFY (arrêt car recrudescence élément délirant +++)
+RISPERDAL depuis septembre 2018
+Cliniquement, contact psychotique, calme présentation adaptée
+Regard figé émoussement des affects discours pauvre peu élaboré, plutôt cohérent et organisé ; pas élément délirant au premier plan alogie
+Hallucination acoustico verbale : la voix d'une personne qui existe et c'est toujours la même, ne souhaite pas évoquer ce qu'elle dise.
+Au total : Schizophrénie paranoïde avec élément hallucinatoire prédominant
+16)EVOLUTION DANS LE SERVICE
+- 07/10/2020 Visite : Bizarreries du contact, attitudes d'écoute. Le discours est désorganisé avec troubles du cours de la pensée, barrages et illogisme. Discordance idéo-affective.
+Pas de syndrome délirant franc mais automatisme mental et hallucinations acousticoverbales importantes avec parfois idées suicidaires liées à cet envahissement hallucinatoire.
+Pas d'idées noires ou suicidaires au moment de l'entretien cependant.
+Réévaluation du traitement par RISPERDAL 6mg d'ici semaine prochaine et en fonction de la réponse discuter le maintien ou une adaptation du traitement
+- 13/10/2020 
+Hallucination acousitco verbale : la voix d'une femme, qui lui parle tous les jours, ne souhaite pas me donner son prénom, m'explique qu'elle était une amie à elle rencontrée lors de ces études aux pays de galles
+Attitudes d'écoute
+Discours cohérent plutôt organisé. Elément délirant et automatisme mental " j'ai l'impression que la tv parle de moi".
+Barrages +++ Fading
+CAT:
+Augmentation RISPERDAL ? ou switch ?
+- 15/10/2020 Visite : ralentissement psychomoteur, toujours barrage, discours assez pauvre, sans élément délirant, Discordance ideo affective, Alogie ++
+Rapporte une dégradation de sa relation avec père, depuis son voyage au pays de galles. Rapporte une indifférence affective. « ça ne me fait ni chaud ni froid"
+Rapporte tout de même une légère diminution des HAV
+Méfiance pathologique
+Surveiller hypersialorrhée, décrite par l'équipe soignante.
+CAT
+Réévaluer risperdal ou switch ?
+Faire le point social semaine prochaine
+Arrêt imovane switch pour THERALENE
+
+17)EVOLUTION DANS LE SERVICE
+Sommeil amélioré sous THERALENE, bonne tolérance du ttt
+Trouble du cours de pensée : barrages +++++ , fading, relâchement des associations
+Discordance ideo affective
+Exprime la difficulté à ressentir les émotions des autres
+Eléments de persécutions "j'ai l'impression que les gens parlent de moi"
+Conscience de la maladie "verbalise qu'elle est atteinte d'une schizophrénie"
+- 19/10/2020 Visite : Toujours HAV, envahissante et quasi permanente. Ne souhaite pas parler de la voix ; pas élément délirant de persécution
+Thymie neutre sans idée noire ni idée suicidaire, pas amélioration clinique
+CAT
+Projet : switch pour QUETIAPINE
+- 20/10/2020 Visite : Peu d'amélioration au niveau hallucinatoire et automatisme mental.
+Switch Quétiapine
+- 26/10/2020 Visite : meilleur contact
+Rires immotivés ++, attitudes d'écoute
+Discours un peu plus spontané et plus élaboré, cohérent et organisé, légèrement ralentit, fading ++, pas élément délirant
+Concernant HAV : explique entendre toujours la voix, ne souhaite pas me donner le nom, voix d'une femme qu'il lui dit des choses gentilles
+Souhaite que cette voix reste présente, " cette voix me protège et si elle disparait je vais être perdu, elle est un guide pour moi" "elle me protège".
+M'explique avoir fait un TS quelques jours avant son rdv du 30/09 avec le Dr. A fait une TS à son domicile par couteau " j'ai voulu me l'enfoncer dans le cœur" et essai par électrocution. " J’ai fait une TS car je n'avais plus de sens à ma vie ". Décrit également que la voix la protège car "m'a dit d'arrêter."
+Bonne tolérance du ttt QUETIAPINE mais augmentation appétit
+Poursuite du switch pour QUETIAPINE
+
+18)EVOLUTION DANS LE SERVICE
+27/10/2020 Visite : contact amélioré
+Discours plus spontané et plus élaboré, peu authentique, rires immotivés, discordance ideo affective
+Discours désorganisé sans élément délirant franc, émoussement des affects
+Persistante HAV mais diminué selon elle
+Thymie neutre sans idée noire ni idée suicidaire, bonne tolérance du ttt, en cours switch risperdal pour quétiapine
+Arrêt en cours SERESTA
+- 28/10/2020 Résultat d’examen et d’imagerie : Résultat scanner cérébral ce jour
+Absence d’effet de masse.
+Absence de lésion hémorragique récente.
+Structures médianes en place.
+Filière ventriculaire de taille normale.
+Aération normale des sinus de la face.
+- 30/10/2020 Visite : 
+Contact toujours étrange
+Hallucination acoustico verbale résiduelle : en diminution selon la patiente, mais discours semble non authentique.
+Thymie neutre sans idée noire ni idée suicidaire
+A fait Hortithérapie ce matin, décrit un sentiment de plaisir
+CAT: poursuite switch pour QUETIAPINE
+- 03/11/2020 Visite : Calme, contact étrange
+Discours désorganisé mais semble mieux qu'à l'entrée, pas de barrage, pas de fading
+Propos discordance, désorganisation idéo affective
+Propos ambivalent
+Pas d'idn, pas d'ids depuis début octobre, FP : famille
+Se sent mieux mais fluctuation
+HAV samedi spontanément résolutive
+Occasionnant des angoisses
+Notion de TS avant entrée
+Demande trt anxiolytique SB. OK pour attendre l'effet du trt de fond car passé addicto. Sait qu'elle peut venir nous solliciter
+CAT :
+Arrêt risperdal
+Augmentation quétiapine
+
+19)EVOLUTION DANS LE SERVICE
+- 02/01/2021 
+Patiente vue ce matin car est revenue hier soir de permission plus tôt que prévu. Selon la patiente et les membres de l'équipe, cela arrive souvent.
+Lors de l'entretien la patiente est calme et coopérante.
+Le contact n'est pas psychotique, cependant difficultés à avoir un contact visuel.
+Le discours est organisé et cohérent, pas d'idées délirantes.
+La thymie semble plutôt basse mais la patiente dit "ça va".
+Pas d'idées suicidaires lors de l'entretien, cependant la patiente relate le fait qu'elle se sentait angoissée chez elle seule avec son père : "s’il y avait eu en plus une amie de mon âge ce ne serait pas pareil". "Je préfère rester ici parce qu'il y a du monde comme ça les gens peuvent intervenir si je me fais du mal".
+Ambivalence quant aux idées suicidaires++ La patiente verbalise que les TS sont des appels au secours et non une réelle envie de mourir.
+Proposition à la patiente de repartir en perm de journée aujourd'hui (son père peut venir la chercher), mais la patiente préfère rester à l'hôpital.
+La patiente se plaint d'hypersalivation et que le patch de scopoderm est inefficace.
+CAT :
+- pas de perm selon le souhait de la patiente
+- réévaluation des ttt contre l'hypersalivation
+
+20)EVOLUTION DANS LE SERVICE
+- 04/01/2021 Visite : Vue ce jour
+De nouveau rentrée plus tôt de sa permission ce week end. Elle explique avoir ressenti des angoisses sans objet selon elle. Nie avoir eu des HAV pendant la permission. Explique s'être sentie mieux une fois revenue à l'hôpital, plus en sécurité. Le contact reste psychotique, pas d'idée délirante au premier plan, pas d'IDN ni suicidaire. Emoussement des affects.
+NFS dans les normes, augmentation de la clozapine ce jour et nouvelle augmentation en fin de semaine. Probable permission de J la semaine prochaine avant d'envisager à nouveau des nuits.
+- 11/01/2021 uro ce jour pour urgenturie et pollakiurie
+Il lui a été donné un pad test + un calendrier mictionnel
+Reprise des explications avec la patiente car n'avait pas du tout compris ce qu'il fallait faire
+Réticente à faire le recueil des urines quotidiennes sur 3 jours
+A prescrit du Toviaz 4mg 1 par jour en dehors des repas > hors livret, père vient la voir demain, ordo lui sera remise pour qu'il prenne en pharmacie.
+- 13/01/2021 Résultat d’examen et d’imagerie : Clozapinémie du 11/01/21 : 175ug/L
+- 13/01/2021 Visite : IDE : refus de prise du Toviaz ce soir
+Contact psychotique, laconisme. Plaintes de difficultés mictionnelles sans douleurs ni brûlures.
+Cliniquement : abdomen souple, dépressible, indolore. Pas de matité rétro pubienne palpée.
+CAT: réassurance + explications quant à l'intérêt du TTT
+- 13/01/2021 Résultat d’examen et d’imagerie : PCR Covid 13/01 : négative
+- 15/01/2021 Avis spécialisé - Ophtalmologie : Avis car plainte de flou visuel et à l'examen légère limitation du champ visuel aux extrémités, bilatéral
+Absence d'autre plainte ou anomalie à l'examen clinique
+> Avis : Atropine peut donner le flou visuel mais pb de champ visuel à objectiver par un examen. Demande de cs à demander au 33 202. Pas d'urgence.
+
+21)EVOLUTION DANS LE SERVICE
+- 25/01/2021 Visite : La permission de J de ce WE s'est très bien déroulée, a passé du temps en famille de façon agréable. Meilleur contact ce jour. Nous explique que les HAV sont fluctuantes mais qu'elle n'entend plus la voix depuis plusieurs jours au moins. Pas d'angoisse, pas d'idée noire ni suicidaire. Bonne tolérance de la clozapine qui est augmentée progressivement.
+Permission de J le 28/01 et le 30/01 pour son anniversaire et celui de sa mère.
+- 29/01/2021 Visite : RDV famille ce matin avec patiente et ses deux parents
+De nouveau explications multiples sur le TT, ses objectifs et les doses cibles qu'elle a atteint mtn.
+Nous disent qu'ils la trouvent de meilleur contact, plus souriante et à l'aise. Pas d'élément délirant ou hallucinatoire depuis plusieurs jours voire semaines.
+Plainte essentiellement portée sur l'hypersalivation que nous n'arrivons pas à contrôler : seul produit ayant marché était le scopoderm en patch mais eczema... Atropine causait des troubles de l'accommodation, laroxyl semble peu efficace. Pourrait poser un pb d'observance au long cours.
+De même de nouveau plainte sur le plan urinaire. Explication du suivi uro qui ne montre rien d'anormal jusqu'ici. Probable composante psychologique qui sera à travailler si cela persiste.
+- 02/02/2021 Visite : A rempli son calendrier urinaire : polyurie à 3L par jour >> effectivement la patiente boit 3L par jour
+Education ++ sur la nécessité de diminuer les apports à environ 1.5L par jour
+- 04/02/2021 Staff : sur le plan endocrino : persistance d'une hyperprolactinémie isolée IRM hypophysaire normal
+LH FSH non interprétable car sous POP
+=> acné, prise de poids +> élimination d'un SOPK => bilan avec écho ovarienne + dosage testostérone et Delta 4 androst..
+- 04/02/2021 Résultat d’examen et d’imagerie : Clozapinémie du 01/02/21: 451 μg/l
+
+22)SYNTHESE MEDICALE DU SEJOUR
+Au total patiente de 23 ans initialement hospitalisée puis en hospitalisation continue pour décompensation de sa schizophrénie entraînant des troubles du comportement au domicile.
+Comme relaté plus haut, la patiente a bénéficié de plusieurs switch thérapeutiques devant l'apparition d'effets secondaires sous TT (hyperprolactinémie persistante sous risperdal) ou inefficacité pour le solian. Il persistait en effet un contact très psychotique ainsi que des hallucinations acoustico verbales peu critiquées. De la clozapine a alors été introduite, jusqu'à dose efficace. Cela avait permis une régression totale des HAV, une amélioration du contact, et la patiente avait bénéficié de permissions au domicile qui s'étaient bien déroulées. Cependant elle présentait une hypersialorrhée importante ainsi qu'une sédation qui devenait invalidante. Il a alors été décidé de prendre la clozapine en une seule prise le soir. Le lendemain de cette première prise groupée, la patiente a présenté un état de mal épileptique ayant nécessité un transfert pour exploration. Aucune anomalie aux examens réalisés n'a été retrouvée en dehors d'un tracé évocateur d'une origine métabolique. Les crises convulsives ont alors été imputées à la clozapine. Un TT antiépileptique par Vimpat avait été instauré mais enlevé après avis neurologique.
+A son retour dans le service nous avons introduit de l'Abilify comme traitement de fond en augmentant progressivement la dose. Devant la bonne tolérance nous sommes passés sous forme injectable.
+Actuellement la patiente est de bon contact bien qu'il persiste quelques bizarreries du comportement. Le discours est organisé et cohérent, sans idée délirante. Les hallucinations ont régressé et elle critique celles présentes auparavant en partie seulement. Un travail d'éducation thérapeutique est à poursuivre, de même qu'un travail pour une réintégration psychosociale. 
+
+23)Histoire de la maladie :
+Première hospitalisation en région parisienne en 2018
+Hospitalisation en 2020 pendant plusieurs mois
+Traitement actuel
+Abilify Maintena 400 (dernière injection faite le 12/04)
+Effet indésirable grave à la Clozapine : crises d'épilepsie sur encéphalopathie médicamenteuse
+Hyperprolactinémie sous Risperdal
+HISTOIRE DE LA MALADIE
+Recrudescence délirante depuis quelques jours au domicile. Retrouvée prostrée dans son immeuble, avec des comportements inadaptés comme des cris sur son balcon "je vais t'épouser". Suite à la recrudescence des symptômes psychotiques depuis plusieurs jours, les parents se sont inquiétés et ont appelés les pompiers pour qu'elle soit évaluée aux urgences psychiatriques.
+La patiente présente une production délirante de thématique érotomaniaque de mécanisme imaginatif et hallucinatoire peu systématisé avec une adhésion totale et un retentissement affectif majeur. La patiente présente également des symptômes de désorganisation et d'instabilité motrice ainsi qu'un déni des troubles.
+
+24)SYNTHESE MEDICALE DU SEJOUR
+Dans un premier temps, poursuite du traitement par Abilify en injection retard avec peu d'efficacité malgré ajout d'un traitement potentialisateur par thymorégulateur par Teralithe.
+Switch de traitement antipsychotique par Risperdal per os ayant permis un net amendement de la symptomatologie psychotique notamment hallucinatoire et disparition des troubles du comportement.
+Passage sous forme retard par Xeplion 150mg tous les 28 jours avec une tolérance clinique correcte.
+Elle a cependant présenté plusieurs effets secondaires au traitement qui ont été bilanté et pour lesquels des avis endocrinologiques ont été demandés.
+Sous Risperdal puis Xeplion, elle a développé une hyperprolactinémie jusqu'à 183.2 μg/l en juillet (dernier dosage le 20/09/2021 en baisse à 71.7μg/l). Une IRM cérébrale centrée sur la selle turcique a été réalisée le 26/06/2021 et s'est révélée sans particularités. Cliniquement, la patiente présente des troubles du cycle menstruel avec aménorrhée.
+Sous Teralithe, nous avons retrouvé des perturbations du bilan thyroïdien en juin 2021 avec TSH 5.846 et T4 11.5 T3 4.65 anticorps anti-TPO 2896.6, anticorps anti-thyroglobuline 151.8 anticorps anti-récepteurs TSH <1. Un traitement par Levothyrox à 50μg a été introduit. Une échographie thyroïdienne a été réalisée le 21/07/2021 et retrouvait une thyroïde de taille normale sans argument échographique pour une thyroïdite active et une discrète hétérogénéité des pôles inférieurs des lobes pouvant correspondre à une thyroïdite médicamenteuse ou débutante justifiant d'un contrôle échographique à distance. Le dernier contrôle de TSH s'est normalisé à 2.155 le 20/09/2021.
+A noter symptomatologie urologique à type de dysurie et d'incontinence congruente à une symptomatologie anxieuse résiduelle et améliorée par la prise d'un traitement anxiolytique par Valium à petites doses.
+
+25)HDM :
+Apathie brutale durant l'hospitalisation, avec refus de prise des traitements et refus d'alimentation depuis clz 8/12.
+teralithe et Anafranil non reconduit à l'entrée d'hospitalisation, probablement suite à la décompensation cardiaque droite aiguë.
+Le 8/12/2021, la patiente est vue par l’équipe de psychiatrie de liaison dans un contexte d'opposition aux soins et clinophilie. Cliniquement, elle ne présente pas d'élément en faveur d'une catatonie. Devant des éléments confusionnels (désorientation temporo spatiale), un bilan étiologique est lancé. La patiente présente sur la biologie du 11/12/2021 une déshydratation extracellulaire ayant nécessité la mise en place d'une hydratation IV. Sur le plan du comportement, la patiente se dégrade le WE du 11/12, s'opposant aux soins et à la prise des traitements avec un mutisme complet. Elle est réévaluée sur le plan psychiatrique le 13/12/2021 avec décision de faire une fenêtre thérapeutique des traitements psychiatriques ce jour ci devant la déshydratation. Devant l'amélioration de la biologie, et un bilan étiologique ne montrant pas d'organicité a son changement de comportement brutal, le Seropram IV est réintroduit le 15/12/2021 à 10mg.
+Le 16/12/2021, la patiente a présenté un épisode d'agitation qui s’est résolu sans prise de traitement psychotropes
+Le 17/12 /2021 : elle est réévaluée par nos soins, le contact est meilleur que les jours précédents, avec une réponse aux ordres simples. La patiente accepte de s'alimenter en petite quantité avec stimulation. Elle ne présente pas de rigidité en faveur d'un syndrome catatonique. Elle est néanmoins anxieuse, ce qui a nécessité l'instauration de loxapac 5mg x 3 + 10mg en si besoin. 
+Au total : probable décompensation dépressive d'un trouble bipolaire connu sur stress organique et arrêt brutal de l’Anafranil et theralithe.
+
+File 2618 :
+
+1)HISTOIRE DE LA MALADIE
+Patient âgé de 47 ans, schizophrène, sorti d'un an et demi d'hospitalisation présentant des angoisses psychotiques et des HAV invalidantes.
+ATCD psy :
+Schizophrénie paranoïde diagnostiquée à l'âge de 19 ans
+ATCD somatique :
+Diabète non insulino dépendant sous Metformine (Glycémie à 1,33g/L)
+Probable insuffisance cardiaque sous Bisoprolol 2,5mg par jour
+Hernie ombilicale opérée x2
+Perte de 40kg de manière volontaire
+ATCD judiciaires : plusieurs incarcérations pour trafic de drogue
+Traitement actuel par Clozapine 500mg par jour et Dépakote 1500mg par jour (le patient a son carnet de Clozapine chez lui).
+HDLM :
+Patient âgé de 47 ans, pour une schizophrénie paranoïde.
+Une prise en charge par un chez soi d'abord a été initié.
+Il s'agit d'un patient présentant une schizophrénie paranoïde suivie et traitée initialement par Clopixol en injection puis par Leponex. Il présente des HAV enkystées résistantes au traitement.
+A été retrouvé au sol sur la voie publique en état d'ivresse. Il a été transporté par les pompiers.
+SYNTHESE MEDICALE DU SEJOUR
+Patient de 48 ans hospitalisé pour une recrudescence d'hallucinations acoustico-verbales et angoisses psychotiques chez un patient schizophrène.
+L'évolution dans le service est globalement favorable avec quelques épisodes de recrudescence hallucinatoires ou anxieuses que le patient arrive à gérer. Il peut verbaliser des idées délirantes à thématique mystique, de filiation et de persécution mais sans trouble du comportement associé. Le patient est euthymique. Il ne présente pas d'idées noires ni d'idées suicidaires. Le comportement dans le service est adapté.
+
+2)SYNTHESE MEDICALE DU SEJOUR
+Patient hospitalisé du 4/10/21 au 30/12/21 pour une décompensation délirante dans un contexte de schizophrénie paranoïde.
+Au début du séjour dans l'unité, le contact était psychotique, déficitaire, avec une tension intra-psychique marquée. Le discours était désorganisé et circonlocutoire, en raison d’une élaboration psychique limitée.
+Il semblait exister une production délirante enkystée sous-jacente mais peu accessible lors de l’examen clinique, sans grand retentissement émotionnel et comportemental.
+Le patient était initialement très peu compliant aux soins avec de nombreuses revendications.
+Sur le plan thérapeutique, a été introduit un traitement neuroleptique par HALDOl per os. Il a été décidé de poursuivre la prise en charge par le biais d'une forme retard : HALDOL DECANOAS 6 ampoules/28j à partir du 19/11.
+Par ailleurs, nous avons préconisé dans un premier temps une sédation par du LOXAPAC jusqu'à une dose de 150mg par jour avant d'envisager un switch par du TERCIAN 25mg 3 fois par jour avec un meilleur bénéfice sur l'état clinique.
+Mr B a verbalisé un fond anxieux constant sous-tendant des troubles du sommeil qui se sont progressivement amendés après une anxiolyse par TEMESTA 2.5mg 3 fois par jour et l'introduction d'IMOVANE 7.5mg.
+En raison d'une amélioration partielle de l'état clinique du patient, une levée de la mesure d'hospitalisation sous contrainte a pu être réalisée et des permissions ont pu être organisé au cours desquelles des consommations excessives d'alcool et de cannabis ont été constaté avec un retentissement majeur sur l'état psychique de Mr B.
+Devant l'évolution sur le plan clinique, l'ajustement des thérapeutiques et l'avancée des démarches sociales avec la mise à disposition de son logement via le dispositif "un chez soi d'abord", le patient a pu retourner à domicile le 30/12/21.
+
+3)EVOLUTION DANS LE SERVICE
+- A son arrivée dans le service le patient est très désorganisé, le discours est diffluent empreint de propos délirants, il banalise et rationnalise ses troubles. La thymie est neutre, il n'y a pas d'idées suicidaires. Il nie avoir arrêté ses traitements pour la bipolarité, en revanche il reconnait avoir arrêté ses antidiabétiques et a un déséquilibre glycémique important nécessitant la mise en place d'un protocole insuline. L'insight est nul.
+Son traitement de fond pour la bipolarité a été réintroduit (risperdal, téralithe).
+Les premiers jours on observe une désorganisation comportementale et des transgressions dans le service, il a démonté des robinets et les a cachés, est monté dans les combles, a appelé les pompiers, a fumé du cannabis. On note également une désorganisation de la pensée, une fluctuation de l'humeur et une perturbation du sommeil.
+Après adaptation thérapeutique on note une amélioration clinique, il n'y a plus d'accélération psychomotrice, la pensée se réorganise et la thymie se stabilise. Cependant son état de santé reste fragile avec quelques fluctuations, il garde notamment des projets désadaptés. L'insight se renforce peu à peu, il commence à élaborer autour des troubles ayant menés à son hospitalisation et en rattache certains à sa pathologie, en revanche il critique peu ses précédents projets. Il tolère bien les traitements et en comprend la nécessité.
+Les premières sorties peuvent être organisées et se déroulent sans problème mais doivent être arrêtées dans le contexte particulier de l'épidémie à COVID 19. Dans ce contexte de crise sanitaire (impossibilité de permissions et de visites) et devant sa bonne évolution clinique, son épouse demande la levée du tiers. Ses fils souhaitent également une sortie définitive et que le confinement se fasse au domicile.
+Le patient est globalement stabilisé et retourne au domicile avec sa famille.
+Sur le plan somatique, son diabète s'est stabilisé après adaptation du traitement suivant l'avis de son méd gé(metformine 500mg + gliclazide 30mg matin et soir).
+Mr B s'est cassée une cote suite à une chute mécanique dans sa baignoire (confirmation radio) et a reçu une antalgie par tramadol.
+
+4)EVOLUTION DANS LE SERVICE
+Durant le séjour, le patient est resté calme et compliant. Il n'a pas présenté de troubles du comportement. Aucune consommation de toxiques n'a été objectivée.
+Sur le plan somatique, le diabète est stabilisé après modification du schéma d'insuline :
+- ABASAGLAR : 18 UI le matin
+- NOVORAPID : 8 UI le matin, 6 UI le midi, 6 UI le soir.
+Sur le plan odontologique, le patient a bénéficié d'une extraction dentaire.
+Sur le plan psychiatrique, les adaptations thérapeutiques ont consisté en :
+- Diminution du LOXAPAC (25-25-50-125 mg/j)
+- Poursuite du traitement anxiolytique par ALPRAZOLAM (0.5-0.25-0.5-0.5 mg/j)
+- Introduction d'un régulateur de l'humeur anti-impulsif TEGRETOL (400 mg 2cp/j)
+- Conversion de l'ABILIFY PO en ABILIFY MAINTENA (400mg/j)
+- Poursuite du traitement hypnotique par ZOPICLONE (7.5 mg/j) et THERALENE (20 gte/j).
+Les idées suicidaires ont été très présentes en début de séjour, si bien que la surveillance suicidaire n'a pu être levée que le 18/05/2020. Le contact demeure de nécessité, le patient reste opposant de façon passive. La présentation reste négligée. Les éléments de personnalité sont au 1er plan : attitudes de dissimulation et de manipulation, froideur émotionnelle, impulsivité. Le discours est mystificateur et le patient se montre toujours aussi peu enclin à aborder le passage à l'acte ayant conduit à son hospitalisation. Il apparaît très détaché à ce sujet. Son humeur semble indifférente, bien que celui-ci verbalise des angoisses sans objet (il n'est pas à exclure la possibilité d'une recherche d'augmentation des doses d'anxiolytiques). On ne retrouve pas d'épisode dissociatif ni d'altération du contact avec la réalité durant l'hospitalisation. Aucun processus hallucinatoire ni production délirante n'ont été constatés au sein du service. Les fonctions instinctuelles sont rétablies. Le risque de passage à l'acte auto ou hétéro-agressif est toujours présent du fait de la tension intra-psychique.
+
+5)EVOLUTION DANS LE SERVICE
+20/05/2019 Sortie en permission ce samedi mais revenu toujours très tôt, comme à son habitude, sans raison particulière.
+Poursuite des permissions et commencer les nuits à la maison, une nuit cette semaine avec ide.
+Etat tout à fait stable par ailleurs en dehors de qq transgressions avec le tabac.
+Rencontrera sa curatrice jeudi matin avec nous.
+21/05/2019 Repris sur les transgressions régulières du règlement concernant la cigarette, tendance à fumer dans la chambre avec son voisin de chambre.
+Par ailleurs, état globalement stable.
+Attente IDE pour permission de nuit au domicile.
+21/05/2019 Fièvre cet après-midi, avec frissons et brulures mictionnelles lors de la dernière miction, légère sensibilité en fosse lombaire.
+Doliprane.
+21/05/2019 
+Vu en rapport à une fièvre dans l'après-midi
+Calme, bon contact
+Apyrétique à 19h
+Paracétamol donné à 15h
+Céphalées et lombalgies
+Pas de plaies
+Pas de toux
+Voix rauque inhabituelle
+Brûlures mictionnelles avec BU négative (ECBU réalisé et envoyé)
+Pas de douleurs à l'ébranlement des fosses lombaires
+Météorisme abdominal sensible à la palpation dans son ensemble
+Pas de défense, pas de contracture
+SYNTHESE MEDICALE DU SEJOUR
+Patient hospitalisé pour décompensation d'une schizophrénie paranoïde avec des traits de personnalité psychopathique
+
+6)EVOLUTION DANS LE SERVICE
+- 30/03/2020 
+Effectivement sous HALDOL DECANOAS 2 ampoules/28/j après échec de l'abilify, du risperdal consta et du clopixol AP.
+Habituellement, la patiente décompenserait sur rupture de traitement et récupèrerait ad integrum avec un bon niveau de fonctionnement, autonome pour les transports par exemple et adaptée dans sa vie familiale ;
+Serait favorable à une augmentation provisoire d'haldol per os et/ou en rapprochant la prochaine injection prévue, la patiente répondant bien à ce traitement d'habitude ; disponible pour revoir la patiente rapidement après sa sortie ;
+- 02/04/2020 
+Derniers paramètres biométriques
+SYNTHESE MEDICALE DU SEJOUR
+La patiente n'a pas présenté de troubles du comportement dans le service.
+Aucune consommation de toxique n'a été objectivée durant l'hospitalisation.
+L'alliance thérapeutique demeure fragile durant son séjour. Patiente adhésive.
+Discours comportant des plaintes multiples concernant son traitement. Les effets indésirables rapportés par la patiente (sédation) ne sont pas constatés par l'équipe soignante ;
+Au terme de son séjour, la patiente est de bon contact mais demeure adhésive. La présentation est adaptée. Le discours comporte toujours des persévérations. On note des angoisses de nature psychotique. Les productions délirantes sont encore présentes mais mises à distance. La patiente demeure légèrement exaltée et ne verbalise pas d'idées suicidaires. Sommeil et appétit sont préservés 
+
+7)ATCD psychiatriques
+Diagnostic de trouble schizo-affectif
+ATCD d'hospitalisation 
+Traitement habituel par Haldol décanoas 2 ampoules tous les 28 jours, en rupture de traitement et de suivi depuis 5 mois
+Notion d'ATCD de traitement par Risperdal mal toléré (plafonnement) et Abilify inefficace selon la patiente
+Notion de 2 passages à l'acte auto-agressif sans intentionnalité suicidaire
+ATCD somatiques
+Hypotension artérielle
+Carence en fer avec anémie
+Pyélonéphrite en 2020
+Toxiques
+Consommations de cannabis chronique et régulière 1-2 joints/jour
+Tabagisme actuel 3-4 cig/jour
+Consommation d'alcool occasionnelle, notion de binge drinking avec mises en danger
+Consommation de cocaïne
+HISTOIRE DE LA MALADIE
+Hospitalisation pour troubles du comportement sur la voie publique avec intervention des sapeurs-pompiers. Aurait menacé son conjoint de sauter par la fenêtre à domicile car il aurait tenté de l'agresser.
+Notion de rupture thérapeutique depuis 5 mois.
+SYNTHESE MEDICALE DU SEJOUR
+A l'arrivée dans le service et devant une importante exaltation thymique associée à une accélération psychomotrice, un traitement sédatif et anxiolytique a été instauré par Loxapac et Seresta puis par Tercian et Valium. Un traitement de fond par Abilify rapidement majoré jusqu'à 30mg/j est également mis en place.
+Malgré cela, Mme K présente des troubles du comportement à type d'agitation et d'hétéro-agressivité nécessitant une prise en charge en chambre d'isolement. Un switch de traitement antipsychotique est alors décidé avec la mise en place de Risperdal per os à 8mg/j.
+Son état clinique reste cependant fluctuant et s'explique entre autres par des consommations de toxiques constatées dans le service (notamment de cocaïne).
+Par la suite, l'état clinique de Mme K se stabilise avec un comportement plus calme et moins adhésif, une meilleure tolérance à la frustration, une réorganisation du cours de la pensée, une correction des troubles du sommeil et une humeur basale subexaltée.
+Un relais par Xeplion est alors réalisé et les traitements symptomatiques sédatifs et anxiolytiques sont progressivement arrêtés.
+La patiente effectue par la suite plusieurs permissions à son domicile qui se déroulent sans particularités. Une surveillance des toxiques urinaires est effectuée de manière sporadique et revient négative.
+
+8)HISTOIRE DE LA MALADIE
+Patiente de 58 ans, hospitalisée en psychiatrie pour suite de prise en charge d'une schizophrénie paranoïde résistante. Retour d'un séjour de 3 jours suite à un état de mal épileptique sur hyponatrémie (liée à reprise d'une potomanie connue).
+HDLM le 13.10.20 : épisode de crise tonico-clonique d'environ 10-15min cédant initialement sous VALIUM 10mg. Absence de reprise de conscience avec nouvel épisode de crise tonico-clonique nécessitant une ampoule de RIVOTRIL (à 9h30). Hyponatrémie et lipase augmentée. Scanner cérébral et abdomino-pelvien injecté : pas de thrombophlébite, pas de lésion cérébral cérébroméningée. Pas de coulée de nécrose, pas de dilatation des voies biliaires. Globe vésical important avec retentissement sur les voies urinaires.
+
+9)SYNTHESE MEDICALE DU SEJOUR
+Au total, patiente de 59 ans hospitalisée au long cours en attente de placement définitif pour une schizophrénie résistante. Actuellement la clinique est stable avec un contact correct, une régression sous clozapine des phénomènes hallucinatoires, des idées délirantes enkystées mais avec peu de participation affective. Il reste à surveiller la potomanie toujours active ainsi qu’une NFS hebdomadaire dans le cadre de la surveillance de la clozapine.
+
+10)EVOLUTION DANS LE SERVICE
+- 24/10/2019 patient anxieux majoration des angoisses ces derniers jours
+Contact fermé, évitant, thymie basse, idées noires sans IDS
+L’introduction de NARDIL
+- 05/11/2019 patient examiné ce jour pour selles liquides ce matin abdomen distendu, dépressible, sensibilité diffuse sans défense ni contracture ; bruits hydro-aériques non perçus ;
+A toujours ses gaz (objectivé lors de l'examen) ; pas de vomissement ;
+TR : fécalome relativement meuble, pas de saignement extériorisé ;
+CAT : lavement ce soir et contrôle de la vacuité de l'ampoule rectale
+- 05/11/2019 patient constipé ayant reçu un lavement à 18h, n'évacue que très peu de matières depuis, beaucoup de liquide, appel des ides pour examens.
+à l'examen il est conscient et orienté, dit ne pas avoir de douleurs. Se plaint de ressentir besoin d'aller aux toilettes. Abdomen ballonné, tendu, mais dépressible. bha ++. Douleur à la palpation, sensibilité surtout en fosse iliaque gauche, se contracte à la palpation.
+Pas de vomissements ni de nausées.
+Constantes ok : FC 88 TA : 138/92 Sa 98 Temp : 36.20
+
+11)SYNTHESE MEDICALE DU SEJOUR
+Le traitement est adapté, notamment la clozapine est arrêtée et remplacée par de la quétiapine ; le patient bénéficie d'une cure d'ECT du 22 janvier au 19 février 2020 ;
+L'état clinique permet de plus en plus de permissions de demi-journées puis de week-ends au domicile qui se passe bien. L'aboulie et l'apragmatisme persistent mais le patient est mobilisable à la stimulation et participe aux activités avec son épouse (cuisine, promenades...)
+Dans le contexte de l'épidémie de Covid 19, la balance bénéfice-risque n'est pas en faveur d'une prolongation de l'institutionnalisation et on convient avec le patient et son épouse d'un retour à domicile.
+Le traitement de sortie associe notamment TERALITHE, QUETIAPINE et NARDIL.
+
+12)HISTOIRE DE LA MALADIE
+Patient suivi depuis 2009 dans un contexte de trouble de l'humeur sévère avec des éléments psychotiques pharmaco résistant.
+Dernière cure d'ECT en 22 janvier au 19 février 2020.
+Suivi dans un contexte de recrudescence anxiodépressive
+Antécédents de cures ECT :
+1. Cure 2011 : 12 séances
+2. Cure 2012– poursuite février 2013
+3. Cure 20 séances 29/08/2017 -26/12/2017
+4. 37 séances du 21/02/2019 – 19/09/2019
+5. 21/01/2020- 24/06/2020 : 13 séances
+CAT : Prise en charge dans ce contexte afin d'envisager des nouvelles thérapeutiques pour ce patient souffrant d'une pathologie résistante
+DIAGNOSTIC OU HYPOTHESE DIAGNOSTIC A L'ENTREE
+Trouble de l'humeur
+Troubles neuro cognitifs
+EVOLUTION DANS LE SERVICE
+- 26/01/2021 Résultat d’examen et d’imagerie : IRM ANO-PERINEAL +
+CONCLUSION : Fistule discrètement inflammatoire sous lévatorienne trans-sphinctérienne avec un orifice primaire à 14h et l’orifice secondaire au niveau du pli inter fessier gauche
+- 22/02/2021 Petite roue dentée, akinésie. Essai de baisser quétiapine.
+SYNTHESE MEDICALE DU SEJOUR
+Patient hospitalisé trois mois dans le service.
+Dans les premiers temps de l'hospitalisation : contact figé, ralentissement psychomoteur important, thymie basse, anhédonie, apragmatisme et parfois des idées de culpabilité, d'incurabilité et de ruine, ruminations anxieuses.
+Également idées délirantes concernant sa femme ("bizarre", "folle").
+Progressivement, moins ralenti, s'est remis au vélo, reprend du plaisir, toutefois il persiste des fluctuations thymiques notamment des symptômes mélancoliformes. Mieux sous valdoxan.
+Après l'introduction du sifrol, nette amélioration, discours plus fluide, meilleur contact.
+Décision de poursuivre la prise en charge en ambulatoire âpres quelques semaines de stabilisation.
+Sur le plan médicamenteux :
+- Majoration nardil
+- Introduction valdoxan
+- Diminution quétiapine
+- Introduction sifrol en mars
+
+13)EVOLUTION DANS LE SERVICE
+Adaptations thérapeutiques :
+- Arrêt du Pamiprexole, Phénelzine, Lithium devant l'inefficacité thérapeutique
+- Introduction Clozapine, Mirtazapine, Venlafaxine
+- Majoration de la posologie de Quétiapine
+Traitements psychiatriques à la sortie (22/11/2021) :
+- CLOZAPINE 100mg 2-0-2
+- MIRTAZAPINE 15mg 0-0-2(22h)
+- QUETIAPINE 300 0-0-1 (22h)
+- VENLAFAXINE 75mg 3-0-0
+- LOXAPAC 50-50-50-50
+- THERALENE 4% goutte 30mL - 20 gouttes si besoin
+Sur le plan psychiatrique :
+- Suspicion syndrome catatonique en juin 2021, résolutif sous Temesta 2.5mg 4 fois par jour
+Sur le plan somatique :
+- Fracture diaphysaire humérale droite diagnostiquée au mois de mai 2021 à la suite d'une chute, traitée par rééducation et immobilisation coude au corps
+- Abcès marge anal sur infection de fistule déjà connue, résolutif sous antibiothérapie par Augmentin. (IRM anopérinéal de janvier 2021 : Fistule discrètement inflammatoire sous lévatorienne trans-sphinctérienne avec un orifice primaire à 14h et l’orifice secondaire au niveau du pli inter fessier gauche.)
+- TDM cérébral effectué le 04/10/21 : Pas d'hémorragie cérébroméningée. Ventricules et espaces péricérébraux de taille et de morphologie normales. Structures médianes en place. Pas de lésion osseuse.
+Patient transféré le 19/11/2021, devant la nécessité de débuter une mesure de soins sans consentement justifiée par une tentative de suicide interrompue et un risque élevé et imminent de nouveau passage à l'acte.
+En effet, au matin du 19/11/2021, une tentative de suicide par précipitation de la part du patient a été interrompue par l'intervention d'un membre de l'équipe soignante. Aucune critique du geste n'a été émise, le patient restant envahi par ses idées suicidaires.
+Projet thérapeutique : Des séances de sismothérapies doivent être débutées le 23/11/2021.
