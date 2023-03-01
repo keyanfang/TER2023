@@ -1,0 +1,2321 @@
+[{
+  "annotatedClass": {
+    "prefLabel": "après",
+    "@id": "https://data.esante.gouv.fr/terminologies/snomed35fr#648172176",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23648172176",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23648172176/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23648172176/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23648172176/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23648172176/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23648172176/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23648172176/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23648172176/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23648172176/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/SNOMED35VF?p=classes&conceptid=https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23648172176",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 20,
+      "to": 24,
+      "matchType": "PREF",
+      "text": "APRÈS"
+    },
+    {
+      "from": 97,
+      "to": 101,
+      "matchType": "PREF",
+      "text": "APRÈS"
+    },
+    {
+      "from": 213,
+      "to": 217,
+      "matchType": "PREF",
+      "text": "APRÈS"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "definition": [
+      "[after: _x]"
+    ],
+    "prefLabel": "after",
+    "@id": "http://www.limics.fr/ontologies/menelastop#after",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/TOP-MENELAS/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fmenelastop%23after",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/TOP-MENELAS",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/TOP-MENELAS/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fmenelastop%23after/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/TOP-MENELAS/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fmenelastop%23after/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/TOP-MENELAS/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fmenelastop%23after/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/TOP-MENELAS/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fmenelastop%23after/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/TOP-MENELAS/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fmenelastop%23after/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/TOP-MENELAS/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fmenelastop%23after/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/TOP-MENELAS/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fmenelastop%23after/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/TOP-MENELAS/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fmenelastop%23after/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/TOP-MENELAS?p=classes&conceptid=http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fmenelastop%23after",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "definition": "http://www.w3.org/2004/02/skos/core#definition"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 20,
+      "to": 24,
+      "matchType": "PREF",
+      "text": "APRÈS"
+    },
+    {
+      "from": 97,
+      "to": 101,
+      "matchType": "PREF",
+      "text": "APRÈS"
+    },
+    {
+      "from": 213,
+      "to": 217,
+      "matchType": "PREF",
+      "text": "APRÈS"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0085837",
+      "C0150526",
+      "C0086597",
+      "C0680727"
+    ],
+    "semanticType": [
+      "T057",
+      "T054"
+    ],
+    "prefLabel": "Négociation",
+    "synonym": [
+      "Arbitrage",
+      "Résolution de conflit",
+      "Médiation",
+      "Résolution de différend",
+      "Pourparlers",
+      "Règlement de conflit",
+      "Règlement de différend"
+    ],
+    "@id": "http://purl.lirmm.fr/ontology/MSHFRE/D017008",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD017008",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD017008/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD017008/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD017008/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD017008/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD017008/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD017008/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD017008/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD017008/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MSHFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD017008",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "synonym": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "ACTI"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 26,
+      "to": 36,
+      "matchType": "PREF",
+      "text": "NÉGOCIATION"
+    },
+    {
+      "from": 103,
+      "to": 113,
+      "matchType": "PREF",
+      "text": "NÉGOCIATION"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "definition": [
+      "[DEF] CDISC Clinical Research Glossary: a patient is a person under a physician’s care for a particular disease or condition. NOTE: A subject in a clinical trial is not necessarily a patient, but a patient in a clinical trial is a subject."
+    ],
+    "prefLabel": "patient",
+    "@id": "http://neurolog.unice.fr/ontoneurolog/v3.1/study-examination-subject.owl#patient",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/ONL-MR-DA/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/ONL-MR-DA",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/ONL-MR-DA/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/ONL-MR-DA/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/ONL-MR-DA/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/ONL-MR-DA/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/ONL-MR-DA/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/ONL-MR-DA/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/ONL-MR-DA/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/ONL-MR-DA/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/ONL-MR-DA?p=classes&conceptid=http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "definition": "http://www.w3.org/2004/02/skos/core#definition"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 225,
+      "to": 231,
+      "matchType": "PREF",
+      "text": "PATIENT"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "definition": [
+      "[DEF] CDISC Clinical Research Glossary: a patient is a person under a physician’s care for a particular disease or condition. NOTE: A subject in a clinical trial is not necessarily a patient, but a patient in a clinical trial is a subject."
+    ],
+    "prefLabel": "patient",
+    "@id": "http://neurolog.unice.fr/ontoneurolog/v3.1/study-examination-subject.owl#patient",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/ONL-CORE-MSA/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/ONL-CORE-MSA",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/ONL-CORE-MSA/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/ONL-CORE-MSA/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/ONL-CORE-MSA/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/ONL-CORE-MSA/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/ONL-CORE-MSA/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/ONL-CORE-MSA/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/ONL-CORE-MSA/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/ONL-CORE-MSA/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/ONL-CORE-MSA?p=classes&conceptid=http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fstudy-examination-subject.owl%23patient",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "definition": "http://www.w3.org/2004/02/skos/core#definition"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 225,
+      "to": 231,
+      "matchType": "PREF",
+      "text": "PATIENT"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "prefLabel": "Patient",
+    "@id": "http://doe-generated-ontology.com/OntoPneumo#Patient",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/ONTOPNEUMO/classes/http%3A%2F%2Fdoe-generated-ontology.com%2FOntoPneumo%23Patient",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/ONTOPNEUMO",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/ONTOPNEUMO/classes/http%3A%2F%2Fdoe-generated-ontology.com%2FOntoPneumo%23Patient/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/ONTOPNEUMO/classes/http%3A%2F%2Fdoe-generated-ontology.com%2FOntoPneumo%23Patient/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/ONTOPNEUMO/classes/http%3A%2F%2Fdoe-generated-ontology.com%2FOntoPneumo%23Patient/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/ONTOPNEUMO/classes/http%3A%2F%2Fdoe-generated-ontology.com%2FOntoPneumo%23Patient/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/ONTOPNEUMO/classes/http%3A%2F%2Fdoe-generated-ontology.com%2FOntoPneumo%23Patient/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/ONTOPNEUMO/classes/http%3A%2F%2Fdoe-generated-ontology.com%2FOntoPneumo%23Patient/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/ONTOPNEUMO/classes/http%3A%2F%2Fdoe-generated-ontology.com%2FOntoPneumo%23Patient/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/ONTOPNEUMO/classes/http%3A%2F%2Fdoe-generated-ontology.com%2FOntoPneumo%23Patient/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/ONTOPNEUMO?p=classes&conceptid=http%3A%2F%2Fdoe-generated-ontology.com%2FOntoPneumo%23Patient",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 225,
+      "to": 231,
+      "matchType": "PREF",
+      "text": "PATIENT"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "prefLabel": "patient",
+    "@id": "http://www.limics.fr/ontologies/ontolurgences#Patient",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Patient",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Patient/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Patient/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Patient/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Patient/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Patient/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Patient/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Patient/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Patient/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/ONTOLURGENCES?p=classes&conceptid=http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Patient",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 225,
+      "to": 231,
+      "matchType": "PREF",
+      "text": "PATIENT"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "prefLabel": "plus",
+    "@id": "https://data.esante.gouv.fr/terminologies/snomed35fr#885736404",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23885736404",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23885736404/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23885736404/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23885736404/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23885736404/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23885736404/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23885736404/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23885736404/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23885736404/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/SNOMED35VF?p=classes&conceptid=https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23885736404",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 233,
+      "to": 236,
+      "matchType": "PREF",
+      "text": "PLUS"
+    },
+    {
+      "from": 287,
+      "to": 290,
+      "matchType": "PREF",
+      "text": "PLUS"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "definition": [
+      "[DEF] A CROPPING is a resampling that affects only the domain of the mathematical function associated to the dataset “to be cropped”, by defining a subset of this domain, more precisely by reducing the number of samples and changing the upper and lower limit of one or more intervals of this domain. The values taken by the function associated to the dataset are not changed."
+    ],
+    "prefLabel": "recadrage",
+    "@id": "http://neurolog.unice.fr/ontoneurolog/v3.1/ontoneurolog-dataset-processing.owl#cropping",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/ONL-DP/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fontoneurolog-dataset-processing.owl%23cropping",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/ONL-DP",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/ONL-DP/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fontoneurolog-dataset-processing.owl%23cropping/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/ONL-DP/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fontoneurolog-dataset-processing.owl%23cropping/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/ONL-DP/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fontoneurolog-dataset-processing.owl%23cropping/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/ONL-DP/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fontoneurolog-dataset-processing.owl%23cropping/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/ONL-DP/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fontoneurolog-dataset-processing.owl%23cropping/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/ONL-DP/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fontoneurolog-dataset-processing.owl%23cropping/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/ONL-DP/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fontoneurolog-dataset-processing.owl%23cropping/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/ONL-DP/classes/http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fontoneurolog-dataset-processing.owl%23cropping/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/ONL-DP?p=classes&conceptid=http%3A%2F%2Fneurolog.unice.fr%2Fontoneurolog%2Fv3.1%2Fontoneurolog-dataset-processing.owl%23cropping",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "definition": "http://www.w3.org/2004/02/skos/core#definition"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 306,
+      "to": 314,
+      "matchType": "PREF",
+      "text": "RECADRAGE"
+    },
+    {
+      "from": 527,
+      "to": 535,
+      "matchType": "PREF",
+      "text": "RECADRAGE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "prefLabel": "comportement",
+    "@id": "http://purl.lirmm.fr/ontology/STY/T053",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/STY/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FSTY%2FT053",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/STY",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/STY/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FSTY%2FT053/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/STY/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FSTY%2FT053/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/STY/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FSTY%2FT053/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/STY/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FSTY%2FT053/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/STY/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FSTY%2FT053/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/STY/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FSTY%2FT053/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/STY/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FSTY%2FT053/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/STY/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FSTY%2FT053/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/STY?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FSTY%2FT053",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 352,
+      "to": 363,
+      "matchType": "PREF",
+      "text": "COMPORTEMENT"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0004927",
+      "C0233511",
+      "C0233510"
+    ],
+    "semanticType": [
+      "T055",
+      "T184",
+      "T185"
+    ],
+    "prefLabel": "comportement",
+    "synonym": [
+      "conduite",
+      "conation"
+    ],
+    "@id": "http://chu-rouen.fr/cismef/SNOMED_int.#F-93000",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-93000",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-93000/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-93000/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-93000/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-93000/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-93000/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-93000/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-93000/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-93000/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/SNMIFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-93000",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "synonym": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "ACTI",
+      "DISO",
+      "CONC"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 352,
+      "to": 363,
+      "matchType": "PREF",
+      "text": "COMPORTEMENT"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0004927",
+      "C0000899"
+    ],
+    "semanticType": [
+      "T055",
+      "T053"
+    ],
+    "prefLabel": "Comportement",
+    "synonym": [
+      "Processus d'acceptation"
+    ],
+    "@id": "http://purl.lirmm.fr/ontology/MSHFRE/D001519",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD001519",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD001519/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD001519/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD001519/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD001519/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD001519/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD001519/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD001519/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD001519/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MSHFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD001519",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "synonym": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "ACTI"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 352,
+      "to": 363,
+      "matchType": "PREF",
+      "text": "COMPORTEMENT"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "prefLabel": "comportement",
+    "@id": "https://data.esante.gouv.fr/terminologies/snomed35fr#252472949",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23252472949",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23252472949/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23252472949/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23252472949/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23252472949/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23252472949/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23252472949/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23252472949/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23252472949/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/SNOMED35VF?p=classes&conceptid=https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23252472949",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 352,
+      "to": 363,
+      "matchType": "PREF",
+      "text": "COMPORTEMENT"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "prefLabel": "comportement",
+    "@id": "http://data.loterre.fr/ark:/67375/W7B-LZ8KC457-8",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/TRANSTHES/classes/http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FW7B-LZ8KC457-8",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/TRANSTHES",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/TRANSTHES/classes/http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FW7B-LZ8KC457-8/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/TRANSTHES/classes/http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FW7B-LZ8KC457-8/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/TRANSTHES/classes/http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FW7B-LZ8KC457-8/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/TRANSTHES/classes/http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FW7B-LZ8KC457-8/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/TRANSTHES/classes/http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FW7B-LZ8KC457-8/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/TRANSTHES/classes/http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FW7B-LZ8KC457-8/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/TRANSTHES/classes/http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FW7B-LZ8KC457-8/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/TRANSTHES/classes/http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FW7B-LZ8KC457-8/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/TRANSTHES?p=classes&conceptid=http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FW7B-LZ8KC457-8",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 352,
+      "to": 363,
+      "matchType": "PREF",
+      "text": "COMPORTEMENT"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "prefLabel": "ouvert",
+    "@id": "https://data.esante.gouv.fr/terminologies/snomed35fr#18965730",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%2318965730",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%2318965730/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%2318965730/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%2318965730/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%2318965730/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%2318965730/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%2318965730/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%2318965730/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%2318965730/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/SNOMED35VF?p=classes&conceptid=https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%2318965730",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 398,
+      "to": 403,
+      "matchType": "PREF",
+      "text": "OUVERT"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "prefLabel": "ouvert",
+    "synonym": [
+      "ouverte"
+    ],
+    "@id": "http://www.limics.fr/ontologies/ontolurgences#Ouvert",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ouvert",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ouvert/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ouvert/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ouvert/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ouvert/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ouvert/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ouvert/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ouvert/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ouvert/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/ONTOLURGENCES?p=classes&conceptid=http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ouvert",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "synonym": "http://www.w3.org/2004/02/skos/core#altLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 398,
+      "to": 403,
+      "matchType": "PREF",
+      "text": "OUVERT"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0175566"
+    ],
+    "semanticType": [
+      "T082"
+    ],
+    "prefLabel": "ouvert",
+    "synonym": [
+      "liberté",
+      "patent",
+      "perméabilité",
+      "ouverture"
+    ],
+    "@id": "http://chu-rouen.fr/cismef/SNOMED_int.#G-A486",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A486",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A486/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A486/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A486/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A486/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A486/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A486/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A486/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A486/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/SNMIFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A486",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "synonym": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "CONC"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 398,
+      "to": 403,
+      "matchType": "PREF",
+      "text": "OUVERT"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "prefLabel": "récidive",
+    "@id": "http://purl.lirmm.fr/ontology/MUEVO/vpm7",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MUEVO/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMUEVO%2Fvpm7",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MUEVO",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MUEVO/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMUEVO%2Fvpm7/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MUEVO/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMUEVO%2Fvpm7/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MUEVO/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMUEVO%2Fvpm7/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MUEVO/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMUEVO%2Fvpm7/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MUEVO/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMUEVO%2Fvpm7/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MUEVO/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMUEVO%2Fvpm7/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MUEVO/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMUEVO%2Fvpm7/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MUEVO/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMUEVO%2Fvpm7/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MUEVO?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMUEVO%2Fvpm7",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 425,
+      "to": 432,
+      "matchType": "PREF",
+      "text": "RÉCIDIVE"
+    },
+    {
+      "from": 475,
+      "to": 482,
+      "matchType": "PREF",
+      "text": "RÉCIDIVE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C2825055",
+      "C0086898",
+      "C0035020"
+    ],
+    "semanticType": [
+      "T067",
+      "T046"
+    ],
+    "prefLabel": "Récidive",
+    "synonym": [
+      "Recrudescence",
+      "Rechute"
+    ],
+    "@id": "http://purl.lirmm.fr/ontology/MSHFRE/D012008",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD012008",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD012008/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD012008/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD012008/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD012008/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD012008/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD012008/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD012008/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD012008/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MSHFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD012008",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "synonym": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "PHEN",
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 425,
+      "to": 432,
+      "matchType": "PREF",
+      "text": "RÉCIDIVE"
+    },
+    {
+      "from": 475,
+      "to": 482,
+      "matchType": "PREF",
+      "text": "RÉCIDIVE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "prefLabel": "récidive",
+    "@id": "https://data.esante.gouv.fr/terminologies/snomed35fr#153321593",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23153321593",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23153321593/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23153321593/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23153321593/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23153321593/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23153321593/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23153321593/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23153321593/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23153321593/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/SNOMED35VF?p=classes&conceptid=https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23153321593",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 425,
+      "to": 432,
+      "matchType": "PREF",
+      "text": "RÉCIDIVE"
+    },
+    {
+      "from": 475,
+      "to": 482,
+      "matchType": "PREF",
+      "text": "RÉCIDIVE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "prefLabel": "fermé",
+    "@id": "https://data.esante.gouv.fr/terminologies/snomed35fr#369613682",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23369613682",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23369613682/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23369613682/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23369613682/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23369613682/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23369613682/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23369613682/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23369613682/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23369613682/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/SNOMED35VF?p=classes&conceptid=https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23369613682",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 466,
+      "to": 470,
+      "matchType": "PREF",
+      "text": "FERMÉ"
+    },
+    {
+      "from": 568,
+      "to": 572,
+      "matchType": "PREF",
+      "text": "FERMÉ"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0587267"
+    ],
+    "semanticType": [
+      "T169"
+    ],
+    "prefLabel": "fermé",
+    "@id": "http://chu-rouen.fr/cismef/SNOMED_int.#G-A279",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A279",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A279/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A279/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A279/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A279/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A279/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A279/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A279/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A279/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/SNMIFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23G-A279",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "CONC"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 466,
+      "to": 470,
+      "matchType": "PREF",
+      "text": "FERMÉ"
+    },
+    {
+      "from": 568,
+      "to": 572,
+      "matchType": "PREF",
+      "text": "FERMÉ"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "prefLabel": "fermé",
+    "synonym": [
+      "fermée"
+    ],
+    "@id": "http://www.limics.fr/ontologies/ontolurgences#Ferme",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ferme",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ferme/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ferme/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ferme/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ferme/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ferme/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ferme/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ferme/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ferme/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/ONTOLURGENCES?p=classes&conceptid=http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Ferme",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "synonym": "http://www.w3.org/2004/02/skos/core#altLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 466,
+      "to": 470,
+      "matchType": "PREF",
+      "text": "FERMÉ"
+    },
+    {
+      "from": 568,
+      "to": 572,
+      "matchType": "PREF",
+      "text": "FERMÉ"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "definition": [
+      "The process by which knowledge or skills acquired during a task influence performance in another task. ​"
+    ],
+    "prefLabel": "transfer",
+    "@id": "http://data.loterre.fr/ark:/67375/P66-N8DW5K8D-9",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MEMOTHES/classes/http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FP66-N8DW5K8D-9",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MEMOTHES",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MEMOTHES/classes/http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FP66-N8DW5K8D-9/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MEMOTHES/classes/http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FP66-N8DW5K8D-9/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MEMOTHES/classes/http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FP66-N8DW5K8D-9/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MEMOTHES/classes/http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FP66-N8DW5K8D-9/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MEMOTHES/classes/http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FP66-N8DW5K8D-9/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MEMOTHES/classes/http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FP66-N8DW5K8D-9/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MEMOTHES/classes/http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FP66-N8DW5K8D-9/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MEMOTHES/classes/http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FP66-N8DW5K8D-9/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MEMOTHES?p=classes&conceptid=http%3A%2F%2Fdata.loterre.fr%2Fark%3A%2F67375%2FP66-N8DW5K8D-9",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "definition": "http://www.w3.org/2004/02/skos/core#definition"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 547,
+      "to": 555,
+      "matchType": "PREF",
+      "text": "TRANSFERT"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "prefLabel": "Transfert",
+    "@id": "http://id.who.int/ichi/entity/319903169",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/ICHI/classes/http%3A%2F%2Fid.who.int%2Fichi%2Fentity%2F319903169",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/ICHI",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/ICHI/classes/http%3A%2F%2Fid.who.int%2Fichi%2Fentity%2F319903169/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/ICHI/classes/http%3A%2F%2Fid.who.int%2Fichi%2Fentity%2F319903169/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/ICHI/classes/http%3A%2F%2Fid.who.int%2Fichi%2Fentity%2F319903169/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/ICHI/classes/http%3A%2F%2Fid.who.int%2Fichi%2Fentity%2F319903169/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/ICHI/classes/http%3A%2F%2Fid.who.int%2Fichi%2Fentity%2F319903169/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/ICHI/classes/http%3A%2F%2Fid.who.int%2Fichi%2Fentity%2F319903169/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/ICHI/classes/http%3A%2F%2Fid.who.int%2Fichi%2Fentity%2F319903169/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/ICHI/classes/http%3A%2F%2Fid.who.int%2Fichi%2Fentity%2F319903169/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/ICHI?p=classes&conceptid=http%3A%2F%2Fid.who.int%2Fichi%2Fentity%2F319903169",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 547,
+      "to": 555,
+      "matchType": "PREF",
+      "text": "TRANSFERT"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C1457887"
+    ],
+    "semanticType": [
+      "T184"
+    ],
+    "prefLabel": "symptômes",
+    "@id": "http://chu-rouen.fr/cismef/MedlinePlus#31",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%2331",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%2331/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%2331/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%2331/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%2331/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%2331/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%2331/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%2331/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%2331/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MEDLINEPLUS?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%2331",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 600,
+      "to": 608,
+      "matchType": "PREF",
+      "text": "SYMPTÔMES"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0009806"
+    ],
+    "semanticType": [
+      "T184"
+    ],
+    "prefLabel": "Constipation",
+    "@id": "http://chu-rouen.fr/cismef/CISP-2#D12",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/CISP-2/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FCISP-2%23D12",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/CISP-2",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/CISP-2/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FCISP-2%23D12/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/CISP-2/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FCISP-2%23D12/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/CISP-2/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FCISP-2%23D12/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/CISP-2/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FCISP-2%23D12/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/CISP-2/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FCISP-2%23D12/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/CISP-2/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FCISP-2%23D12/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/CISP-2/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FCISP-2%23D12/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/CISP-2/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FCISP-2%23D12/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/CISP-2?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FCISP-2%23D12",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 622,
+      "to": 633,
+      "matchType": "PREF",
+      "text": "CONSTIPATION"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "prefLabel": "constipation",
+    "@id": "http://www.limics.fr/ontologies/ontolurgences#ConstipationMaladie",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23ConstipationMaladie",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23ConstipationMaladie/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23ConstipationMaladie/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23ConstipationMaladie/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23ConstipationMaladie/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23ConstipationMaladie/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23ConstipationMaladie/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23ConstipationMaladie/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23ConstipationMaladie/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/ONTOLURGENCES?p=classes&conceptid=http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23ConstipationMaladie",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 622,
+      "to": 633,
+      "matchType": "PREF",
+      "text": "CONSTIPATION"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0009806"
+    ],
+    "semanticType": [
+      "T184"
+    ],
+    "prefLabel": "Constipation",
+    "@id": "http://chu-rouen.fr/cismef/WHO-ART#0204_PT",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230204_PT",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230204_PT/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230204_PT/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230204_PT/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230204_PT/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230204_PT/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230204_PT/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230204_PT/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230204_PT/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/WHO-ARTFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230204_PT",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 622,
+      "to": 633,
+      "matchType": "PREF",
+      "text": "CONSTIPATION"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "prefLabel": "constipation",
+    "@id": "https://data.esante.gouv.fr/terminologies/snomed35fr#381541430",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23381541430",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23381541430/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23381541430/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23381541430/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23381541430/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23381541430/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23381541430/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23381541430/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23381541430/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/SNOMED35VF?p=classes&conceptid=https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23381541430",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 622,
+      "to": 633,
+      "matchType": "PREF",
+      "text": "CONSTIPATION"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0009806"
+    ],
+    "semanticType": [
+      "T184"
+    ],
+    "prefLabel": "constipation",
+    "@id": "http://chu-rouen.fr/cismef/MedlinePlus#T200",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%23T200",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%23T200/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%23T200/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%23T200/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%23T200/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%23T200/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%23T200/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%23T200/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MEDLINEPLUS/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%23T200/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MEDLINEPLUS?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%23T200",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 622,
+      "to": 633,
+      "matchType": "PREF",
+      "text": "CONSTIPATION"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "definition": [
+      "la constipation est une affection aiguë ou chronique au cours de laquelle les selles se déplacent moins souvent que d'habitude ou consistent en selles dures et sèches qui sont souvent douloureuses ou difficiles à passer."
+    ],
+    "prefLabel": "constipation",
+    "@id": "http://id.who.int/icd/entity/502284069",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/CIM-11/classes/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F502284069",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/CIM-11",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/CIM-11/classes/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F502284069/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/CIM-11/classes/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F502284069/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/CIM-11/classes/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F502284069/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/CIM-11/classes/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F502284069/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/CIM-11/classes/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F502284069/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/CIM-11/classes/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F502284069/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/CIM-11/classes/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F502284069/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/CIM-11/classes/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F502284069/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/CIM-11?p=classes&conceptid=http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F502284069",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "definition": "http://www.w3.org/2004/02/skos/core#definition"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 622,
+      "to": 633,
+      "matchType": "PREF",
+      "text": "CONSTIPATION"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0009806"
+    ],
+    "semanticType": [
+      "T184"
+    ],
+    "prefLabel": "Constipation",
+    "@id": "http://purl.lirmm.fr/ontology/MDRFRE/10010774",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10010774",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10010774/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10010774/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10010774/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10010774/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10010774/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10010774/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10010774/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10010774/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MDRFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10010774",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 622,
+      "to": 633,
+      "matchType": "PREF",
+      "text": "CONSTIPATION"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "prefLabel": "Constipation",
+    "@id": "http://www.limics.org/hrdo/rdfns#sgn_id_27480",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/HRDO/classes/http%3A%2F%2Fwww.limics.org%2Fhrdo%2Frdfns%23sgn_id_27480",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/HRDO",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/HRDO/classes/http%3A%2F%2Fwww.limics.org%2Fhrdo%2Frdfns%23sgn_id_27480/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/HRDO/classes/http%3A%2F%2Fwww.limics.org%2Fhrdo%2Frdfns%23sgn_id_27480/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/HRDO/classes/http%3A%2F%2Fwww.limics.org%2Fhrdo%2Frdfns%23sgn_id_27480/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/HRDO/classes/http%3A%2F%2Fwww.limics.org%2Fhrdo%2Frdfns%23sgn_id_27480/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/HRDO/classes/http%3A%2F%2Fwww.limics.org%2Fhrdo%2Frdfns%23sgn_id_27480/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/HRDO/classes/http%3A%2F%2Fwww.limics.org%2Fhrdo%2Frdfns%23sgn_id_27480/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/HRDO/classes/http%3A%2F%2Fwww.limics.org%2Fhrdo%2Frdfns%23sgn_id_27480/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/HRDO/classes/http%3A%2F%2Fwww.limics.org%2Fhrdo%2Frdfns%23sgn_id_27480/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/HRDO?p=classes&conceptid=http%3A%2F%2Fwww.limics.org%2Fhrdo%2Frdfns%23sgn_id_27480",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 622,
+      "to": 633,
+      "matchType": "PREF",
+      "text": "CONSTIPATION"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0009806"
+    ],
+    "semanticType": [
+      "T184"
+    ],
+    "prefLabel": "constipation",
+    "@id": "http://chu-rouen.fr/cismef/SNOMED_int.#D5-44010",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D5-44010",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D5-44010/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D5-44010/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D5-44010/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D5-44010/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D5-44010/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D5-44010/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D5-44010/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D5-44010/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/SNMIFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D5-44010",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 622,
+      "to": 633,
+      "matchType": "PREF",
+      "text": "CONSTIPATION"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0237326",
+      "C1257861",
+      "C0009806"
+    ],
+    "semanticType": [
+      "T184"
+    ],
+    "prefLabel": "Constipation",
+    "synonym": [
+      "Dyschésie",
+      "Inertie du côlon",
+      "Dyschézie",
+      "Inertie colique"
+    ],
+    "@id": "http://purl.lirmm.fr/ontology/MSHFRE/D003248",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD003248",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD003248/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD003248/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD003248/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD003248/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD003248/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD003248/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD003248/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD003248/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MSHFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD003248",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "synonym": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 622,
+      "to": 633,
+      "matchType": "PREF",
+      "text": "CONSTIPATION"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0558193"
+    ],
+    "semanticType": [
+      "T184"
+    ],
+    "prefLabel": "Raideur des membres",
+    "@id": "http://purl.lirmm.fr/ontology/MDRFRE/10024509",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10024509",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10024509/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10024509/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10024509/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10024509/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10024509/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10024509/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10024509/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10024509/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MDRFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10024509",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 638,
+      "to": 656,
+      "matchType": "PREF",
+      "text": "RAIDEUR DES MEMBRES"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "prefLabel": "membres inférieurs",
+    "@id": "https://data.esante.gouv.fr/terminologies/snomed35fr#870370167",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23870370167",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23870370167/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23870370167/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23870370167/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23870370167/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23870370167/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23870370167/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23870370167/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/SNOMED35VF/classes/https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23870370167/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/SNOMED35VF?p=classes&conceptid=https%3A%2F%2Fdata.esante.gouv.fr%2Fterminologies%2Fsnomed35fr%23870370167",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 650,
+      "to": 667,
+      "matchType": "PREF",
+      "text": "MEMBRES INFÉRIEURS"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "prefLabel": "Membres inférieurs",
+    "@id": "http://chu-rouen.fr/cismef/LPP#1000122",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/LPP/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FLPP%231000122",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/LPP",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/LPP/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FLPP%231000122/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/LPP/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FLPP%231000122/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/LPP/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FLPP%231000122/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/LPP/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FLPP%231000122/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/LPP/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FLPP%231000122/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/LPP/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FLPP%231000122/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/LPP/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FLPP%231000122/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/LPP/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FLPP%231000122/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/LPP?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FLPP%231000122",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 650,
+      "to": 667,
+      "matchType": "PREF",
+      "text": "MEMBRES INFÉRIEURS"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "prefLabel": "membres inférieurs",
+    "@id": "http://www.limics.fr/ontologies/ontolurgences#MembresInferieurs",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23MembresInferieurs",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23MembresInferieurs/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23MembresInferieurs/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23MembresInferieurs/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23MembresInferieurs/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23MembresInferieurs/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23MembresInferieurs/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23MembresInferieurs/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/ONTOLURGENCES/classes/http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23MembresInferieurs/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/ONTOLURGENCES?p=classes&conceptid=http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23MembresInferieurs",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel"
+    }
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 650,
+      "to": 667,
+      "matchType": "PREF",
+      "text": "MEMBRES INFÉRIEURS"
+    }
+  ],
+  "mappings": [
+    
+  ]
+}]

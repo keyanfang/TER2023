@@ -1,0 +1,127 @@
+[{
+  "annotatedClass": {
+    "cui": [
+      "C0303506",
+      "C0023870"
+    ],
+    "semanticType": [
+      "T196",
+      "T104",
+      "T121"
+    ],
+    "prefLabel": "lithium",
+    "@id": "http://chu-rouen.fr/cismef/SNOMED_int.#C-15400",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23C-15400",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23C-15400/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23C-15400/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23C-15400/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23C-15400/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23C-15400/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23C-15400/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23C-15400/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23C-15400/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/SNMIFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23C-15400",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "CHEM"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 207,
+      "to": 213,
+      "matchType": "PREF",
+      "text": "LITHIUM"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0023870"
+    ],
+    "semanticType": [
+      "T196",
+      "T121"
+    ],
+    "prefLabel": "Lithium",
+    "@id": "http://purl.lirmm.fr/ontology/MSHFRE/D008094",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD008094",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD008094/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD008094/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD008094/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD008094/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD008094/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD008094/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD008094/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD008094/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MSHFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD008094",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "CHEM"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 207,
+      "to": 213,
+      "matchType": "PREF",
+      "text": "LITHIUM"
+    }
+  ],
+  "mappings": [
+    
+  ]
+}]

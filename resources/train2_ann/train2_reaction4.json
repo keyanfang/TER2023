@@ -1,0 +1,328 @@
+[{
+  "annotatedClass": {
+    "cui": [
+      "C0014394"
+    ],
+    "semanticType": [
+      "T047"
+    ],
+    "prefLabel": "Énurésie",
+    "@id": "http://purl.lirmm.fr/ontology/MSHFRE/D004775",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD004775",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD004775/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD004775/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD004775/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD004775/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD004775/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD004775/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD004775/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD004775/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MSHFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD004775",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 654,
+      "to": 661,
+      "matchType": "PREF",
+      "text": "ÉNURÉSIE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0014394"
+    ],
+    "semanticType": [
+      "T047"
+    ],
+    "prefLabel": "Énurésie",
+    "@id": "http://purl.lirmm.fr/ontology/MDRFRE/10014928",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10014928",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10014928/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10014928/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10014928/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10014928/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10014928/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10014928/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10014928/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10014928/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MDRFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10014928",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 654,
+      "to": 661,
+      "matchType": "PREF",
+      "text": "ÉNURÉSIE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0270327",
+      "C0014394"
+    ],
+    "semanticType": [
+      "T047",
+      "T048"
+    ],
+    "prefLabel": "énurésie",
+    "synonym": [
+      "incontinence urinaire nocturne"
+    ],
+    "@id": "http://chu-rouen.fr/cismef/SNOMED_int.#F-72110",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-72110",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-72110/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-72110/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-72110/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-72110/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-72110/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-72110/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-72110/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-72110/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/SNMIFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-72110",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "synonym": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 654,
+      "to": 661,
+      "matchType": "PREF",
+      "text": "ÉNURÉSIE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0005697",
+      "C0235091",
+      "C0270327",
+      "C0042024",
+      "C1261562",
+      "C0014394"
+    ],
+    "semanticType": [
+      "T047",
+      "T046",
+      "T048"
+    ],
+    "prefLabel": "énurésie",
+    "@id": "http://chu-rouen.fr/cismef/WHO-ART#0156_IT1",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230156_IT1",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230156_IT1/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230156_IT1/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230156_IT1/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230156_IT1/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230156_IT1/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230156_IT1/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230156_IT1/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230156_IT1/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/WHO-ARTFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230156_IT1",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 654,
+      "to": 661,
+      "matchType": "PREF",
+      "text": "ÉNURÉSIE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0302807",
+      "C0856984",
+      "C0549255",
+      "C0085631",
+      "C0549254",
+      "C0235101",
+      "C0030318"
+    ],
+    "semanticType": [
+      "T033",
+      "T184",
+      "T052"
+    ],
+    "prefLabel": "Angoisses",
+    "@id": "http://chu-rouen.fr/cismef/WHO-ART#0163_IT2",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230163_IT2",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230163_IT2/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230163_IT2/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230163_IT2/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230163_IT2/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230163_IT2/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230163_IT2/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230163_IT2/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230163_IT2/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/WHO-ARTFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230163_IT2",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO",
+      "ACTI"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 984,
+      "to": 992,
+      "matchType": "PREF",
+      "text": "ANGOISSES"
+    }
+  ],
+  "mappings": [
+    
+  ]
+}]

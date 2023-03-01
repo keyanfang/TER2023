@@ -1,0 +1,1188 @@
+[{
+  "annotatedClass": {
+    "cui": [
+      "C0349217"
+    ],
+    "semanticType": [
+      "T048"
+    ],
+    "prefLabel": "Épisode dépressif",
+    "@id": "http://purl.lirmm.fr/ontology/MDRFRE/10012402",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10012402",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10012402/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10012402/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10012402/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10012402/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10012402/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10012402/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10012402/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10012402/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MDRFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10012402",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 52,
+      "to": 68,
+      "matchType": "PREF",
+      "text": "ÉPISODE DÉPRESSIF"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0015967"
+    ],
+    "semanticType": [
+      "T184"
+    ],
+    "prefLabel": "Hyperthermie",
+    "@id": "http://purl.lirmm.fr/ontology/MDRFRE/10020843",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10020843",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10020843/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10020843/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10020843/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10020843/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10020843/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10020843/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10020843/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10020843/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MDRFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10020843",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 263,
+      "to": 274,
+      "matchType": "PREF",
+      "text": "HYPERTHERMIE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0015967"
+    ],
+    "semanticType": [
+      "T033"
+    ],
+    "prefLabel": "hyperthermie",
+    "@id": "http://chu-rouen.fr/cismef/SNOMED_int.#F-0A440",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-0A440",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-0A440/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-0A440/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-0A440/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-0A440/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-0A440/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-0A440/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-0A440/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-0A440/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/SNMIFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-0A440",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 263,
+      "to": 274,
+      "matchType": "PREF",
+      "text": "HYPERTHERMIE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0235822",
+      "C0235823"
+    ],
+    "semanticType": [
+      "T033"
+    ],
+    "prefLabel": "Surdosage",
+    "@id": "http://chu-rouen.fr/cismef/WHO-ART#0874_IT0",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230874_IT0",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230874_IT0/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230874_IT0/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230874_IT0/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230874_IT0/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230874_IT0/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230874_IT0/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230874_IT0/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230874_IT0/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/WHO-ARTFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230874_IT0",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 322,
+      "to": 330,
+      "matchType": "PREF",
+      "text": "SURDOSAGE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0029944"
+    ],
+    "semanticType": [
+      "T037"
+    ],
+    "prefLabel": "Surdosage",
+    "@id": "http://purl.lirmm.fr/ontology/MDRFRE/10033295",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10033295",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10033295/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10033295/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10033295/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10033295/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10033295/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10033295/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10033295/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10033295/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MDRFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10033295",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 322,
+      "to": 330,
+      "matchType": "PREF",
+      "text": "SURDOSAGE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0035078"
+    ],
+    "semanticType": [
+      "T047"
+    ],
+    "prefLabel": "Insuffisance rénale",
+    "@id": "http://purl.lirmm.fr/ontology/MDRFRE/10038435",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038435",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038435/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038435/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038435/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038435/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038435/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038435/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038435/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038435/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MDRFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038435",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 362,
+      "to": 380,
+      "matchType": "PREF",
+      "text": "INSUFFISANCE RÉNALE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C1565489"
+    ],
+    "semanticType": [
+      "T047"
+    ],
+    "prefLabel": "Insuffisance rénale",
+    "@id": "http://purl.lirmm.fr/ontology/MDRFRE/10038474",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038474",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038474/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038474/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038474/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038474/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038474/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038474/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038474/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038474/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MDRFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038474",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 362,
+      "to": 380,
+      "matchType": "PREF",
+      "text": "INSUFFISANCE RÉNALE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C1565489"
+    ],
+    "semanticType": [
+      "T047"
+    ],
+    "prefLabel": "Insuffisance rénale",
+    "@id": "http://purl.lirmm.fr/ontology/MDRFRE/10022467",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10022467",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10022467/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10022467/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10022467/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10022467/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10022467/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10022467/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10022467/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10022467/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MDRFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10022467",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 362,
+      "to": 380,
+      "matchType": "PREF",
+      "text": "INSUFFISANCE RÉNALE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0035078"
+    ],
+    "semanticType": [
+      "T047"
+    ],
+    "prefLabel": "Insuffisance rénale",
+    "@id": "http://purl.lirmm.fr/ontology/MDRFRE/10023418",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023418",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023418/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023418/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023418/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023418/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023418/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023418/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023418/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023418/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MDRFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023418",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 362,
+      "to": 380,
+      "matchType": "PREF",
+      "text": "INSUFFISANCE RÉNALE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C1565489",
+      "C0035078"
+    ],
+    "semanticType": [
+      "T047"
+    ],
+    "prefLabel": "Insuffisance rénale",
+    "synonym": [
+      "Insuffisance du rein",
+      "Défaillance rénale",
+      "Défaillance du rein"
+    ],
+    "@id": "http://purl.lirmm.fr/ontology/MSHFRE/D051437",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051437",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051437/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051437/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051437/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051437/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051437/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051437/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051437/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051437/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MSHFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051437",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "synonym": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 362,
+      "to": 380,
+      "matchType": "PREF",
+      "text": "INSUFFISANCE RÉNALE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C1561643"
+    ],
+    "semanticType": [
+      "T047"
+    ],
+    "prefLabel": "Insuffisance rénale chronique",
+    "@id": "http://purl.lirmm.fr/ontology/MDRFRE/10064848",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10064848",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10064848/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10064848/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10064848/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10064848/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10064848/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10064848/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10064848/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10064848/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MDRFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10064848",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 396,
+      "to": 424,
+      "matchType": "PREF",
+      "text": "INSUFFISANCE RÉNALE CHRONIQUE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0022661"
+    ],
+    "semanticType": [
+      "T047"
+    ],
+    "prefLabel": "Insuffisance rénale chronique",
+    "@id": "http://purl.lirmm.fr/ontology/MDRFRE/10038444",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038444",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038444/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038444/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038444/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038444/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038444/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038444/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038444/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038444/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MDRFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10038444",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 396,
+      "to": 424,
+      "matchType": "PREF",
+      "text": "INSUFFISANCE RÉNALE CHRONIQUE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0022661"
+    ],
+    "semanticType": [
+      "T047"
+    ],
+    "prefLabel": "Insuffisance rénale chronique",
+    "@id": "http://purl.lirmm.fr/ontology/MDRFRE/10009119",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10009119",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10009119/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10009119/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10009119/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10009119/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10009119/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10009119/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10009119/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10009119/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MDRFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10009119",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 396,
+      "to": 424,
+      "matchType": "PREF",
+      "text": "INSUFFISANCE RÉNALE CHRONIQUE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0022661"
+    ],
+    "semanticType": [
+      "T047"
+    ],
+    "prefLabel": "insuffisance rénale chronique",
+    "@id": "http://chu-rouen.fr/cismef/SNOMED_int.#D7-11013",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D7-11013",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D7-11013/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D7-11013/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D7-11013/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D7-11013/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D7-11013/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D7-11013/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D7-11013/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D7-11013/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/SNMIFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D7-11013",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 396,
+      "to": 424,
+      "matchType": "PREF",
+      "text": "INSUFFISANCE RÉNALE CHRONIQUE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0403447"
+    ],
+    "semanticType": [
+      "T047"
+    ],
+    "prefLabel": "Insuffisance rénale chronique",
+    "synonym": [
+      "IRC (Insuffisance Rénale Chronique)"
+    ],
+    "@id": "http://purl.lirmm.fr/ontology/MSHFRE/D051436",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051436",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051436/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051436/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051436/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051436/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051436/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051436/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051436/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MSHFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051436/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MSHFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD051436",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "synonym": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 396,
+      "to": 424,
+      "matchType": "PREF",
+      "text": "INSUFFISANCE RÉNALE CHRONIQUE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0403447"
+    ],
+    "semanticType": [
+      "T047"
+    ],
+    "prefLabel": "Insuffisance rénale chronique",
+    "@id": "http://purl.lirmm.fr/ontology/MDRFRE/10050441",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10050441",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10050441/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10050441/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10050441/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10050441/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10050441/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10050441/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10050441/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10050441/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MDRFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10050441",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 396,
+      "to": 424,
+      "matchType": "PREF",
+      "text": "INSUFFISANCE RÉNALE CHRONIQUE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0022661"
+    ],
+    "semanticType": [
+      "T047"
+    ],
+    "prefLabel": "Insuffisance rénale chronique",
+    "@id": "http://purl.lirmm.fr/ontology/MDRFRE/10023420",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023420",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023420/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023420/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023420/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023420/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023420/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023420/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023420/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/MDRFRE/classes/http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023420/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/MDRFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10023420",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 396,
+      "to": 424,
+      "matchType": "PREF",
+      "text": "INSUFFISANCE RÉNALE CHRONIQUE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0549281",
+      "C0041948",
+      "C0302810",
+      "C0235446",
+      "C0022661"
+    ],
+    "semanticType": [
+      "T047"
+    ],
+    "prefLabel": "Insuffisance rénale chronique",
+    "@id": "http://chu-rouen.fr/cismef/WHO-ART#0406_IT0",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230406_IT0",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230406_IT0/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230406_IT0/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230406_IT0/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230406_IT0/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230406_IT0/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230406_IT0/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230406_IT0/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/WHO-ARTFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230406_IT0/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/WHO-ARTFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230406_IT0",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 396,
+      "to": 424,
+      "matchType": "PREF",
+      "text": "INSUFFISANCE RÉNALE CHRONIQUE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+},{
+  "annotatedClass": {
+    "cui": [
+      "C0003808",
+      "C0043012",
+      "C0234422",
+      "C0699864"
+    ],
+    "semanticType": [
+      "T033",
+      "T041"
+    ],
+    "prefLabel": "vigilance",
+    "synonym": [
+      "éveillé",
+      "éveil",
+      "vigilant",
+      "état vigil"
+    ],
+    "@id": "http://chu-rouen.fr/cismef/SNOMED_int.#F-A5502",
+    "@type": "http://www.w3.org/2002/07/owl#Class",
+    "links": {
+      "self": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-A5502",
+      "ontology": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE",
+      "children": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-A5502/children",
+      "parents": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-A5502/parents",
+      "descendants": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-A5502/descendants",
+      "ancestors": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-A5502/ancestors",
+      "instances": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-A5502/instances",
+      "tree": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-A5502/tree",
+      "notes": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-A5502/notes",
+      "mappings": "https://data.bioportal.lirmm.fr/ontologies/SNMIFRE/classes/http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-A5502/mappings",
+      "ui": "http://bioportal.lirmm.fr/ontologies/SNMIFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23F-A5502",
+      "@context": {
+        "self": "http://www.w3.org/2002/07/owl#Class",
+        "ontology": "http://data.bioontology.org/metadata/Ontology",
+        "children": "http://www.w3.org/2002/07/owl#Class",
+        "parents": "http://www.w3.org/2002/07/owl#Class",
+        "descendants": "http://www.w3.org/2002/07/owl#Class",
+        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+        "instances": "http://data.bioontology.org/metadata/Instance",
+        "tree": "http://www.w3.org/2002/07/owl#Class",
+        "notes": "http://data.bioontology.org/metadata/Note",
+        "mappings": "http://data.bioontology.org/metadata/Mapping",
+        "ui": "http://www.w3.org/2002/07/owl#Class"
+      }
+    },
+    "@context": {
+      "@vocab": "http://data.bioontology.org/metadata/",
+      "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "synonym": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+      "cui": "http://bioportal.bioontology.org/ontologies/umls/cui"
+    },
+    "semantic_groups": [
+      "DISO",
+      "PHYS"
+    ]
+  },
+  "hierarchy": [
+    
+  ],
+  "annotations": [
+    {
+      "from": 564,
+      "to": 572,
+      "matchType": "PREF",
+      "text": "VIGILANCE"
+    }
+  ],
+  "mappings": [
+    
+  ]
+}]
